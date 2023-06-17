@@ -1,0 +1,655 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fc savings calculator plugin\n"
+"POT-Creation-Date: 2021-09-25 21:18-0400\n"
+"PO-Revision-Date: 2021-09-25 21:19-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx\n"
+"X-Poedit-SearchPath-0: en/calculator.gui.php\n"
+"X-Poedit-SearchPath-1: fc-savings-calculator.php\n"
+"X-Poedit-SearchPath-2: js/interface.SAVINGS-WIDGET.js\n"
+
+#: en/calculator.gui.php:21 en/calculator.gui.php:23
+msgid "Savings Calculator"
+msgstr "Säästölaskuri"
+
+#: en/calculator.gui.php:46 en/calculator.gui.php:179 en/calculator.gui.php:313
+#: en/calculator.gui.php:450
+msgid "click for more features"
+msgstr "klikkaa lisää ominaisuuksia"
+
+#: en/calculator.gui.php:57
+msgid "Saved Monthly?"
+msgstr "Kuukausittainen säästö?"
+
+#: en/calculator.gui.php:65 en/calculator.gui.php:193
+msgid "Months? (#)"
+msgstr "Kuukausia?"
+
+#: en/calculator.gui.php:73 en/calculator.gui.php:337 en/calculator.gui.php:472
+msgid "Annual Interest Rate?"
+msgstr "Vuosittainen korko?"
+
+#: en/calculator.gui.php:83 en/calculator.gui.php:211
+msgid "Final Amount (FV)"
+msgstr "Lopullinen määrä (FV)"
+
+#: en/calculator.gui.php:91 en/calculator.gui.php:219 en/calculator.gui.php:355
+#: en/calculator.gui.php:490
+msgid "Interest Earned"
+msgstr "Ansaittu korko"
+
+#: en/calculator.gui.php:98 en/calculator.gui.php:226
+msgid "Total Invested"
+msgstr "Sijoitetut varat yhteensä"
+
+#: en/calculator.gui.php:106
+msgid "Last Deposit"
+msgstr "Viimeinen talletus"
+
+#: en/calculator.gui.php:121
+msgid "Calculate"
+msgstr "Laske"
+
+#: en/calculator.gui.php:121
+msgid "C"
+msgstr "C"
+
+#: en/calculator.gui.php:124 en/calculator.gui.php:254
+#: en/calculator.gui.php:387 en/calculator.gui.php:523
+msgid "Clear"
+msgstr "Tyhjennä"
+
+#: en/calculator.gui.php:124
+msgid "Cl"
+msgstr "Cl"
+
+#: en/calculator.gui.php:127 en/calculator.gui.php:257
+#: en/calculator.gui.php:390 en/calculator.gui.php:526
+msgid "Print"
+msgstr "Tulosta"
+
+#: en/calculator.gui.php:127
+msgid "P"
+msgstr "P"
+
+#: en/calculator.gui.php:130 en/calculator.gui.php:260
+#: en/calculator.gui.php:393 en/calculator.gui.php:529
+msgid "Help"
+msgstr "Ohje"
+
+#: en/calculator.gui.php:130
+msgid "H"
+msgstr "K"
+
+#: en/calculator.gui.php:135 en/calculator.gui.php:265
+#: en/calculator.gui.php:398
+msgid "Schedule"
+msgstr "Aikataulu"
+
+#: en/calculator.gui.php:135
+msgid "S"
+msgstr "S"
+
+#: en/calculator.gui.php:138 en/calculator.gui.php:268
+#: en/calculator.gui.php:401 en/calculator.gui.php:537
+msgid "Charts"
+msgstr "Kaaviot"
+
+#: en/calculator.gui.php:138
+msgid "Ch"
+msgstr "Ch"
+
+#: en/calculator.gui.php:149 en/calculator.gui.php:277
+#: en/calculator.gui.php:409 en/calculator.gui.php:544
+msgid "click to change currency or date format"
+msgstr "klikkaa vaihtaaksesi valuuttaa tai päivämäärämuotoa"
+
+#: en/calculator.gui.php:185
+msgid "Monthly Savings?"
+msgstr "Kuukausittaiset säästöt?"
+
+#: en/calculator.gui.php:201
+msgid "Interest Rate?"
+msgstr "Korko?"
+
+#: en/calculator.gui.php:234 en/calculator.gui.php:370
+#: en/calculator.gui.php:505
+msgid "Last Deposit Date"
+msgstr "Viimeinen talletuspäivä"
+
+#: en/calculator.gui.php:251 en/calculator.gui.php:384
+#: en/calculator.gui.php:520
+msgid "Calc"
+msgstr "Calc"
+
+#: en/calculator.gui.php:286 en/calculator.gui.php:419
+#: en/calculator.gui.php:552
+msgid "Make me smaller."
+msgstr "Tee minusta pienempi."
+
+#: en/calculator.gui.php:287 en/calculator.gui.php:420
+#: en/calculator.gui.php:553
+msgid "Original Size"
+msgstr "Alkuperäinen koko"
+
+#: en/calculator.gui.php:288 en/calculator.gui.php:421
+#: en/calculator.gui.php:554
+msgid "Make me larger."
+msgstr "Tee minusta suurempi."
+
+#: en/calculator.gui.php:319
+msgid "Periodic Savings?"
+msgstr "Säännölliset säästöt?"
+
+#: en/calculator.gui.php:328
+msgid "Number of Months?"
+msgstr "Kuukausien määrä?"
+
+#: en/calculator.gui.php:347
+msgid "Final Amount (fv)"
+msgstr "Lopullinen määrä (fv)"
+
+#: en/calculator.gui.php:362 en/calculator.gui.php:497
+msgid "Total Amount Invested"
+msgstr "Sijoitettu kokonaismäärä"
+
+#: en/calculator.gui.php:456
+msgid "Periodic Savings Amount?"
+msgstr "Määräaikainen säästömäärä?"
+
+#: en/calculator.gui.php:464
+msgid "Number of Periods to Save?"
+msgstr "Tallennettavien ajanjaksojen määrä?"
+
+#: en/calculator.gui.php:482
+msgid "Final Amount (future value)"
+msgstr "Lopullinen määrä (tuleva arvo)"
+
+#: en/calculator.gui.php:534 js/interface.SAVINGS-WIDGET.js:15
+msgid "Savings Schedule"
+msgstr "Säästöjen aikataulu"
+
+#: en/calculator.gui.php:575
+msgid "Savings Calculator — calculate future value"
+msgstr "Säästölaskuri - laske tuleva arvo"
+
+#: en/calculator.gui.php:577
+msgid ""
+"This calculator easily answers the question \"If I save \"X\" amount for \"Y"
+"\" months what will the value be at the end?\""
+msgstr ""
+"Tämä laskin vastaa helposti kysymykseen: \"Jos säästän \"X\" summan \"Y\" "
+"kuukauden ajan, mikä on arvo lopussa?\""
+
+#: en/calculator.gui.php:578
+msgid ""
+"The user enters the \"Periodic Savings Amount\" (amount saved or invested "
+"every month); the \"Number of Months\" and the \"Annual Interest Rate\" or "
+"the annual rate of return one expects to earn on their investments."
+msgstr ""
+"Käyttäjä syöttää \"Periodic Savings Amount\" (kuukausittain säästettävä tai "
+"sijoitettava määrä), \"Number of Months\" (kuukausien lukumäärä) ja \"Annual "
+"Interest Rate\" (vuotuinen korko) eli vuotuinen tuotto, jonka käyttäjä "
+"odottaa saavansa sijoituksistaan."
+
+#: en/calculator.gui.php:579
+msgid ""
+"The calculator quickly creates a savings schedule and a set of charts that "
+"will help the user see the relationship between the amount invested and the "
+"return on the investment. The schedule can be copied and pasted to Excel, if "
+"desired."
+msgstr ""
+"Laskuri luo nopeasti säästöaikataulun ja taulukot, joiden avulla käyttäjä "
+"näkee sijoitetun summan ja sijoituksen tuoton välisen suhteen. Aikataulun "
+"voi halutessaan kopioida ja liittää Exceliin."
+
+#: en/calculator.gui.php:580
+msgid "The investment term is always expressed in months."
+msgstr "Sijoitusaika ilmaistaan aina kuukausina."
+
+#: en/calculator.gui.php:582
+msgid "60 months = &nbsp;5 years"
+msgstr "60 kuukautta = 5 vuotta"
+
+#: en/calculator.gui.php:583
+msgid "120 months = 10 years"
+msgstr "120 kuukautta = 10 vuotta"
+
+#: en/calculator.gui.php:584
+msgid "180 months = 15 years"
+msgstr "180 kuukautta = 15 vuotta"
+
+#: en/calculator.gui.php:585
+msgid "240 months = 20 years"
+msgstr "240 kuukautta = 20 vuotta"
+
+#: en/calculator.gui.php:586
+msgid "360 months = 30 years"
+msgstr "360 kuukautta = 30 vuotta"
+
+#: en/calculator.gui.php:588
+msgid ""
+"If you need a more advanced \"Savings Calculator\" - one that lets the user "
+"solve for the starting amount, the amount to invest, the interest rate, the "
+"term required to reach a goal or the future value; or if you would like to "
+"easily print the schedule; or if you need to pick a different investment "
+"frequency, then you may want to try the calculator located here"
+msgstr ""
+"Jos tarvitset edistyneemmän \"säästölaskurin\" - sellaisen, jonka avulla "
+"käyttäjä voi ratkaista alkusumman, sijoitettavan summan, korkokannan, "
+"tavoitteen saavuttamiseen vaadittavan ajan tai tulevan arvon; tai jos haluat "
+"helposti tulostaa aikataulun; tai jos sinun on valittava erilainen "
+"investointitiheys, voit kokeilla laskuria, joka sijaitsee täällä"
+
+#: en/calculator.gui.php:610
+msgid "Currency and Date Conventions"
+msgstr "Valuutta- ja päivämääräkäytännöt"
+
+#: en/calculator.gui.php:758
+msgid ""
+"All calculators will remember your choice. You may also change it at any "
+"time."
+msgstr ""
+"Kaikki laskimet muistavat valintasi. Voit myös muuttaa sitä milloin tahansa."
+
+#: en/calculator.gui.php:759
+msgid ""
+"Clicking <b>\"Save changes\"</b> will cause the calculator to reload. Your "
+"edits will be lost."
+msgstr ""
+"Jos napsautat <b>\"Tallenna muutokset</b> \", laskin latautuu uudelleen. "
+"Muokkauksesi menetetään."
+
+#: en/calculator.gui.php:762
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: en/calculator.gui.php:763
+msgid "Save changes"
+msgstr "Tallenna muutokset"
+
+#: fc-savings-calculator.php:227 fc-savings-calculator.php:230
+#: fc-savings-calculator.php:233 fc-savings-calculator.php:502
+#: fc-savings-calculator.php:659 fc-savings-calculator.php:669
+msgid "No"
+msgstr "Ei"
+
+#: fc-savings-calculator.php:489
+msgid "Widget's size?:"
+msgstr "Widgetin koko?"
+
+#: fc-savings-calculator.php:491
+msgid "Tiny (max width = 150px)"
+msgstr "Pieni (maksimileveys = 150px)"
+
+#: fc-savings-calculator.php:492
+msgid "Small (max width = 290px)"
+msgstr "Pieni (maksimileveys = 290px)"
+
+#: fc-savings-calculator.php:493
+msgid "Medium (max width = 340px)"
+msgstr "Medium (maksimileveys = 340px)"
+
+#: fc-savings-calculator.php:494
+msgid "Large (max width = 440px)"
+msgstr "Suuri (maksimileveys = 440px)"
+
+#: fc-savings-calculator.php:500
+msgid "Load custom style sheet?:"
+msgstr "Lataa mukautettu tyylitiedosto?"
+
+#: fc-savings-calculator.php:503 fc-savings-calculator.php:660
+#: fc-savings-calculator.php:670
+msgid "Yes"
+msgstr "Kyllä"
+
+#: fc-savings-calculator.php:512
+msgid "Set a default currency?:"
+msgstr "Aseta oletusvaluutta?"
+
+#: fc-savings-calculator.php:514
+msgid "Use visitor's browser's settings to set currency - do not override."
+msgstr ""
+"Käytä kävijän selaimen asetuksia valuutan asettamiseen - älä ohita niitä."
+
+#: fc-savings-calculator.php:639
+msgid "Set a date format convention?:"
+msgstr "Aseta päivämäärämuoto?"
+
+#: fc-savings-calculator.php:641
+msgid "Use visitor's browser's settings to set date format - do not override."
+msgstr ""
+"Käytä kävijän selaimen asetuksia päivämäärämuodon asettamiseen - älä ohita "
+"niitä."
+
+#: fc-savings-calculator.php:657
+msgid "Hide the resize buttons?:"
+msgstr "Piilota kokoa muuttavat painikkeet?"
+
+#: fc-savings-calculator.php:667
+msgid "Allow plugin to add a link to AccurateCalculators.com?:"
+msgstr "Salli plugin lisätä linkki AccurateCalculators.com?"
+
+#: fc-savings-calculator.php:679
+msgid "Add Your Brand Name:"
+msgstr "Lisää tuotemerkkisi nimi"
+
+#: fc-savings-calculator.php:684
+msgid "Default savings amount:"
+msgstr "Säästöjen oletussumma:"
+
+#: fc-savings-calculator.php:685
+msgid "Default number of months:"
+msgstr "Kuukausien oletusmäärä"
+
+#: fc-savings-calculator.php:688
+msgid "Default interest rate:"
+msgstr "Viivästyskorko"
+
+#: fc-savings-calculator.php:690
+msgid "Enter only digits.<br>No formatting."
+msgstr "Syötä vain numeroita.<br>Ei muotoilua."
+
+#: fc-savings-calculator.php:715
+msgid "Savings Calculator by AccurateCalculators.com"
+msgstr "Säästölaskuri by AccurateCalculators.com"
+
+#: fc-savings-calculator.php:717
+msgid "FC Savings Calculator"
+msgstr "FC Säästölaskin"
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid "en"
+msgstr "en"
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid "Please use the backspace key to delete."
+msgstr "Käytä poistamiseen backspace-näppäintä."
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid ""
+"Left, up & down arrow keys are disabled. So are the home, end, pgup and pgdn "
+"keys."
+msgstr ""
+"Nuolinäppäimet vasemmalle, ylös ja alas ovat pois käytöstä. Samoin home-, "
+"end-, pgup- ja pgdn-näppäimet."
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid "Use backspace to delete."
+msgstr "Käytä backspacea poistaaksesi."
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid "If value is selected, just start typing new value to clear prior value."
+msgstr ""
+"Jos arvo on valittu, aloita uuden arvon kirjoittaminen tyhjentääksesi "
+"edellisen arvon."
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid ""
+"When a number is selected (value shown in inverse), use right arrow key to "
+"clear selection without clearing value. Then backspace to edit."
+msgstr ""
+"Kun numero on valittu (arvo näkyy käänteisenä), voit poistaa valinnan "
+"oikealla nuolinäppäimellä tyhjentämättä arvoa. Muokkaa sitten "
+"selausnäppäimellä."
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid ""
+"TIP: Generally it is best to use the TAB or SHIFT-TAB keys to move from one "
+"input to the next or previous input."
+msgstr ""
+"VINKKI: Yleensä on parasta käyttää TAB- tai SHIFT-TAB-näppäimiä siirtyäksesi "
+"yhdestä syötteestä seuraavaan tai edelliseen syötteeseen."
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid ""
+"TIP 2: Generally, editing a value is inefficient. Since values are auto "
+"selected, just type the number you want."
+msgstr ""
+"VINKKI 2: Yleensä arvon muokkaaminen on tehotonta. Koska arvot valitaan "
+"automaattisesti, kirjoita vain haluamasi luku."
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid "Do not type the thousand separator character."
+msgstr "Älä kirjoita tuhatta erotusmerkkiä."
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid "(If using US convention, that would be the comma.)"
+msgstr "(Jos käytetään Yhdysvaltain käytäntöä, se olisi pilkku.)"
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid "I'm smart enough to enter them for you!"
+msgstr "Olen tarpeeksi fiksu syöttämään ne puolestasi!"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "An unknown date calculation error occurred."
+msgstr "Tapahtui tuntematon päivämäärän laskentavirhe."
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid ""
+"Please provide us with your inputs and settings so that we can fix this. "
+"Thank you."
+msgstr ""
+"Ilmoita meille syötteesi ja asetuksesi, jotta voimme korjata tämän. Kiitos."
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Date is not valid - bad year."
+msgstr "Päivämäärä ei ole voimassa - huono vuosi."
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Jan"
+msgstr "Tammi"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Feb"
+msgstr "Helmi"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Mar"
+msgstr "Maalis"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Apr"
+msgstr "Huhti"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "May"
+msgstr "Toukokuu"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Jun"
+msgstr "Kesä"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Jul"
+msgstr "Heinä"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Aug"
+msgstr "Elo"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Sept"
+msgstr "Syys"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Oct"
+msgstr "Loka"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Nov"
+msgstr "Mar"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Dec"
+msgstr "Joulu"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Error: dates out of sequence."
+msgstr "Virhe: päivämäärät eivät ole järjestyksessä."
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Exception"
+msgstr "Poikkeus"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "occurred when accessing"
+msgstr "tapahtui, kun käytettiin"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Invalid index"
+msgstr "Virheellinen indeksi"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "YTD"
+msgstr "YTD"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Running Totals"
+msgstr "Juoksevat kokonaissummat"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Your Personalized Savings Schedule"
+msgstr "Henkilökohtainen säästöaikataulusi"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Retirement Plan Summary"
+msgstr "Eläkejärjestelmän yhteenveto"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Total Investmented"
+msgstr "Yhteensä investoidut"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Number of Investments"
+msgstr "Sijoitusten lukumäärä"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Return on Investment (ROI)"
+msgstr "Sijoitetun pääoman tuotto (ROI) -laskuri"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Total Gain"
+msgstr "Kokonaisvoitto"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Last Cash Flow Date"
+msgstr "Viimeisin kassavirtapäivä"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Years"
+msgstr "Vuotta"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Investment Schedule"
+msgstr "Sijoitusaikataulu"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Year"
+msgstr "Vuosi"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Date"
+msgstr "Päivämäärä"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Interest"
+msgstr "Kiinnostuksen kohde"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Net Change"
+msgstr "Nettomuutos"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Balance"
+msgstr "Saldo"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Annual Interest"
+msgstr "Vuotuinen korko"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Change in Balance"
+msgstr "Saldon muutos"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Amount Invested & Interest as Percentage of Total Value"
+msgstr "Sijoitettu määrä ja korko prosentteina kokonaisarvosta"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Running Interest"
+msgstr "Juokseva kiinnostus"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Total Deposits"
+msgstr "Talletukset yhteensä"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Total Interest Earned"
+msgstr "Ansaittu korko yhteensä"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Total Value"
+msgstr "Kokonaisarvo"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Pct. of Total"
+msgstr "Prosenttiosuus maksujen kokonaismäärästä"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Number of Deposits"
+msgstr "Talletusten määrä"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Initial Interest Rate"
+msgstr "Alkuperäinen korko"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Total Interest"
+msgstr "Korko yhteensä"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Deposit"
+msgstr "Ennakkomaksu"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid ""
+"\"Net Change\" is change from prior period i.e. prior balance plus deposit, "
+"plus interest less withdrawal."
+msgstr ""
+"\"'Nettomuutos' on muutos edelliseen kauteen verrattuna eli aiempi saldo "
+"lisättynä talletuksilla ja koroilla, joista on vähennetty nostot."
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Annual Deposit and Interest Totals"
+msgstr "Vuotuiset talletukset ja korot yhteensä"
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "Accumulated Deposit and Interest"
+msgstr "Kertyneet talletukset ja korot"
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "Annual Deposit"
+msgstr "Vuotuinen talletus"
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "Running Deposit"
+msgstr "Juokseva talletus"
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "There are unknown values."
+msgstr "Tuntemattomia arvoja on liikaa."
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "Please make sure all values are entered."
+msgstr "Varmista, että kaikki arvot on syötetty."

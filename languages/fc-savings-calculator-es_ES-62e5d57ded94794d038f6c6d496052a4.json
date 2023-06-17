@@ -1,0 +1,213 @@
+{
+    "translation-revision-date": "2021-09-25 21:18-0400",
+    "generator": "WP-CLI\/2.5.0",
+    "source": "js\/interface.SAVINGS-WIDGET.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "es_ES",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Savings Schedule": [
+                "Programa de ahorro"
+            ],
+            "en": [
+                "es"
+            ],
+            "Please use the backspace key to delete.": [
+                "Por favor, utilice la tecla de retroceso para borrar."
+            ],
+            "Left, up & down arrow keys are disabled. So are the home, end, pgup and pgdn keys.": [
+                "Las teclas de flecha izquierda, arriba y abajo est\u00e1n desactivadas. Tambi\u00e9n lo est\u00e1n las teclas de inicio, fin, pgup y pgdn."
+            ],
+            "Use backspace to delete.": [
+                "Utilice la tecla de retroceso para borrar."
+            ],
+            "If value is selected, just start typing new value to clear prior value.": [
+                "Si el valor est\u00e1 seleccionado, s\u00f3lo tiene que empezar a escribir el nuevo valor para borrar el valor anterior."
+            ],
+            "When a number is selected (value shown in inverse), use right arrow key to clear selection without clearing value. Then backspace to edit.": [
+                "Cuando se selecciona un n\u00famero (el valor se muestra en sentido inverso), utilice la tecla de flecha derecha para borrar la selecci\u00f3n sin borrar el valor. A continuaci\u00f3n, retroceda para editar."
+            ],
+            "TIP: Generally it is best to use the TAB or SHIFT-TAB keys to move from one input to the next or previous input.": [
+                "CONSEJO: En general, es mejor utilizar las teclas TAB o SHIFT-TAB para pasar de una entrada a la siguiente o a la anterior."
+            ],
+            "TIP 2: Generally, editing a value is inefficient. Since values are auto selected, just type the number you want.": [
+                "SUGERENCIA 2: En general, la edici\u00f3n de un valor es ineficiente. Dado que los valores se seleccionan autom\u00e1ticamente, basta con escribir el n\u00famero que desee."
+            ],
+            "Do not type the thousand separator character.": [
+                "No escriba el car\u00e1cter separador de miles."
+            ],
+            "(If using US convention, that would be the comma.)": [
+                "(Si se utiliza la convenci\u00f3n estadounidense, ser\u00eda la coma)"
+            ],
+            "I'm smart enough to enter them for you!": [
+                "\u00a1Soy lo suficientemente inteligente como para introducirlos por ti!"
+            ],
+            "An unknown date calculation error occurred.": [
+                "Se ha producido un error de c\u00e1lculo de fecha desconocida."
+            ],
+            "Please provide us with your inputs and settings so that we can fix this. Thank you.": [
+                "Por favor, facil\u00edtenos sus aportaciones y ajustes para que podamos solucionarlo. Gracias."
+            ],
+            "Date is not valid - bad year.": [
+                "La fecha no es v\u00e1lida - a\u00f1o malo."
+            ],
+            "Jan": [
+                "Ene"
+            ],
+            "Feb": [
+                "Feb"
+            ],
+            "Mar": [
+                "Mar"
+            ],
+            "Apr": [
+                "Abr"
+            ],
+            "May": [
+                "Mayo"
+            ],
+            "Jun": [
+                "Jun"
+            ],
+            "Jul": [
+                "Jul"
+            ],
+            "Aug": [
+                "Ago"
+            ],
+            "Sept": [
+                "Sept"
+            ],
+            "Oct": [
+                "Oct"
+            ],
+            "Nov": [
+                "Nov"
+            ],
+            "Dec": [
+                "Dic"
+            ],
+            "Error: dates out of sequence.": [
+                "Error: fechas fuera de secuencia."
+            ],
+            "Exception": [
+                "Excepci\u00f3n"
+            ],
+            "occurred when accessing": [
+                "se produjo al acceder a"
+            ],
+            "Invalid index": [
+                "\u00cdndice inv\u00e1lido"
+            ],
+            "YTD": [
+                "YTD"
+            ],
+            "Running Totals": [
+                "Totales de la carrera"
+            ],
+            "Your Personalized Savings Schedule": [
+                "Su programa de ahorro personalizado"
+            ],
+            "Retirement Plan Summary": [
+                "Resumen del plan de jubilaci\u00f3n"
+            ],
+            "Total Investmented": [
+                "Total invertido"
+            ],
+            "Number of Investments": [
+                "N\u00famero de inversiones"
+            ],
+            "Return on Investment (ROI)": [
+                "Calculadora de retorno de la inversi\u00f3n (ROI)"
+            ],
+            "Total Gain": [
+                "Total Ganancias"
+            ],
+            "Last Cash Flow Date": [
+                "Fecha del \u00faltimo flujo de caja"
+            ],
+            "Years": [
+                "A\u00f1os"
+            ],
+            "Investment Schedule": [
+                "Calendario de inversiones"
+            ],
+            "Year": [
+                "A\u00f1o"
+            ],
+            "Date": [
+                "Fecha"
+            ],
+            "Interest": [
+                "Intereses"
+            ],
+            "Net Change": [
+                "Cambio neto"
+            ],
+            "Balance": [
+                "Saldo"
+            ],
+            "Annual Interest": [
+                "Inter\u00e9s anual"
+            ],
+            "Change in Balance": [
+                "Cambio en el balance"
+            ],
+            "Amount Invested & Interest as Percentage of Total Value": [
+                "Cantidad invertida e intereses como porcentaje del valor total"
+            ],
+            "Running Interest": [
+                "Inter\u00e9s por la carrera"
+            ],
+            "Total Deposits": [
+                "Total depositos"
+            ],
+            "Total Interest Earned": [
+                "Total de intereses devengados"
+            ],
+            "Total Value": [
+                "Valor Total"
+            ],
+            "Pct. of Total": [
+                "Porcentaje del total"
+            ],
+            "Number of Deposits": [
+                "N\u00famero de depositos"
+            ],
+            "Initial Interest Rate": [
+                "Tipo de inter\u00e9s inicial"
+            ],
+            "Total Interest": [
+                "Inter\u00e9s Total"
+            ],
+            "Deposit": [
+                "Deposito"
+            ],
+            "\"Net Change\" is change from prior period i.e. prior balance plus deposit, plus interest less withdrawal.": [
+                "\"Variaci\u00f3n neta\" es la variaci\u00f3n respecto al periodo anterior, es decir, el saldo anterior m\u00e1s el dep\u00f3sito, m\u00e1s los intereses menos la retirada."
+            ],
+            "Annual Deposit and Interest Totals": [
+                "Total de dep\u00f3sitos e intereses anuales"
+            ],
+            "Accumulated Deposit and Interest": [
+                "Dep\u00f3sito acumulado e intereses"
+            ],
+            "Annual Deposit": [
+                "Dep\u00f3sito anual"
+            ],
+            "Running Deposit": [
+                "Dep\u00f3sito corriente"
+            ],
+            "There are unknown values.": [
+                "Hay valores desconocidos."
+            ],
+            "Please make sure all values are entered.": [
+                "Por favor, aseg\u00farese de introducir todos los valores."
+            ]
+        }
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "translation-revision-date": "2021-09-25 21:27-0400",
+    "generator": "WP-CLI\/2.5.0",
+    "source": "js\/interface.SAVINGS-WIDGET.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "ro_RO",
+                "plural-forms": "nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && n%100<=19) ? 1 : 2);"
+            },
+            "Savings Schedule": [
+                "Program de economisire"
+            ],
+            "en": [
+                "ro"
+            ],
+            "Please use the backspace key to delete.": [
+                "V\u0103 rug\u0103m s\u0103 folosi\u021bi tasta backspace pentru a \u0219terge."
+            ],
+            "Left, up & down arrow keys are disabled. So are the home, end, pgup and pgdn keys.": [
+                "Tastele s\u0103geat\u0103 st\u00e2nga, sus \u0219i jos sunt dezactivate. La fel \u0219i tastele home, end, pgup \u0219i pgdn."
+            ],
+            "Use backspace to delete.": [
+                "Folosi\u021bi backspace pentru a \u0219terge."
+            ],
+            "If value is selected, just start typing new value to clear prior value.": [
+                "Dac\u0103 valoarea este selectat\u0103, \u00eencepe\u021bi s\u0103 introduce\u021bi o nou\u0103 valoare pentru a \u0219terge valoarea anterioar\u0103."
+            ],
+            "When a number is selected (value shown in inverse), use right arrow key to clear selection without clearing value. Then backspace to edit.": [
+                "Atunci c\u00e2nd este selectat un num\u0103r (valoarea este afi\u0219at\u0103 invers), utiliza\u021bi tasta s\u0103geat\u0103 dreapta pentru a \u0219terge selec\u021bia f\u0103r\u0103 a \u0219terge valoarea. Apoi ap\u0103sa\u021bi \u00eenapoi pentru a edita."
+            ],
+            "TIP: Generally it is best to use the TAB or SHIFT-TAB keys to move from one input to the next or previous input.": [
+                "SUGESTIE: \u00cen general, este mai bine s\u0103 utiliza\u021bi tastele TAB sau SHIFT-TAB pentru a trece de la o intrare la urm\u0103toarea sau la cea anterioar\u0103."
+            ],
+            "TIP 2: Generally, editing a value is inefficient. Since values are auto selected, just type the number you want.": [
+                "SFATUL 2: \u00cen general, editarea unei valori este ineficient\u0103. Deoarece valorile sunt selectate automat, tasta\u021bi pur \u0219i simplu num\u0103rul pe care \u00eel dori\u021bi."
+            ],
+            "Do not type the thousand separator character.": [
+                "Nu introduce\u021bi caracterul de separare a miilor."
+            ],
+            "(If using US convention, that would be the comma.)": [
+                "(Dac\u0103 se folose\u0219te conven\u021bia american\u0103, aceasta ar fi virgula.)"
+            ],
+            "I'm smart enough to enter them for you!": [
+                "Sunt suficient de inteligent s\u0103 le \u00eenscriu pentru tine!"
+            ],
+            "An unknown date calculation error occurred.": [
+                "S-a produs o eroare necunoscut\u0103 de calcul al datei."
+            ],
+            "Please provide us with your inputs and settings so that we can fix this. Thank you.": [
+                "V\u0103 rug\u0103m s\u0103 ne furniza\u021bi datele de intrare \u0219i set\u0103rile dvs., astfel \u00eenc\u00e2t s\u0103 putem remedia problema. V\u0103 mul\u021bumim."
+            ],
+            "Date is not valid - bad year.": [
+                "Data nu este valabil\u0103 - an gre\u0219it."
+            ],
+            "Jan": [
+                "Ian"
+            ],
+            "Feb": [
+                "Feb"
+            ],
+            "Mar": [
+                "Mar"
+            ],
+            "Apr": [
+                "Apr"
+            ],
+            "May": [
+                "Mai"
+            ],
+            "Jun": [
+                "Iun"
+            ],
+            "Jul": [
+                "Iul"
+            ],
+            "Aug": [
+                "Aug"
+            ],
+            "Sept": [
+                "Septembrie"
+            ],
+            "Oct": [
+                "Oct"
+            ],
+            "Nov": [
+                "Nov"
+            ],
+            "Dec": [
+                "Dec"
+            ],
+            "Error: dates out of sequence.": [
+                "Eroare: datele nu se succed."
+            ],
+            "Exception": [
+                "Excep\u0163ie"
+            ],
+            "occurred when accessing": [
+                "a ap\u0103rut la accesarea"
+            ],
+            "Invalid index": [
+                "Indice invalid"
+            ],
+            "YTD": [
+                "YTD"
+            ],
+            "Running Totals": [
+                "Totaluri de func\u021bionare"
+            ],
+            "Your Personalized Savings Schedule": [
+                "Programul dvs. personalizat de economisire"
+            ],
+            "Retirement Plan Summary": [
+                "Rezumatul planului de pensionare"
+            ],
+            "Total Investmented": [
+                "Total investit"
+            ],
+            "Number of Investments": [
+                "Num\u0103rul de investi\u021bii"
+            ],
+            "Return on Investment (ROI)": [
+                "Randamentul investi\u021biilor (ROI)"
+            ],
+            "Total Gain": [
+                "C\u00e2\u0219tig total"
+            ],
+            "Last Cash Flow Date": [
+                "Data ultimului flux de numerar"
+            ],
+            "Years": [
+                "Ani"
+            ],
+            "Investment Schedule": [
+                "Program de investi\u021bii"
+            ],
+            "Year": [
+                "Anul"
+            ],
+            "Date": [
+                "Data"
+            ],
+            "Interest": [
+                "Interesa\u021bi"
+            ],
+            "Net Change": [
+                "Varia\u021bie net\u0103"
+            ],
+            "Balance": [
+                "Sold"
+            ],
+            "Annual Interest": [
+                "Rata anual\u0103 a dob\u00e2nzii"
+            ],
+            "Change in Balance": [
+                "Modificarea soldului"
+            ],
+            "Amount Invested & Interest as Percentage of Total Value": [
+                "Suma investit\u0103 \u0219i dob\u00e2nda ca procent din valoarea total\u0103"
+            ],
+            "Running Interest": [
+                "Rularea interesului"
+            ],
+            "Total Deposits": [
+                "Total depozite"
+            ],
+            "Total Interest Earned": [
+                "Dob\u00e2nda total\u0103 c\u00e2\u0219tigat\u0103"
+            ],
+            "Total Value": [
+                "Valoarea total\u0103"
+            ],
+            "Pct. of Total": [
+                "Pct. din total"
+            ],
+            "Number of Deposits": [
+                "Num\u0103rul de depozite"
+            ],
+            "Initial Interest Rate": [
+                "Rata ini\u021bial\u0103 a dob\u00e2nzii"
+            ],
+            "Total Interest": [
+                "Dob\u00e2nda total\u0103"
+            ],
+            "Deposit": [
+                "Depozit"
+            ],
+            "\"Net Change\" is change from prior period i.e. prior balance plus deposit, plus interest less withdrawal.": [
+                "\"Varia\u021bia net\u0103\" reprezint\u0103 varia\u021bia fa\u021b\u0103 de perioada anterioar\u0103, adic\u0103 soldul anterior plus depozitul, plus dob\u00e2nda, mai pu\u021bin retragerea."
+            ],
+            "Annual Deposit and Interest Totals": [
+                "Totaluri anuale ale depozitelor \u0219i dob\u00e2nzilor"
+            ],
+            "Accumulated Deposit and Interest": [
+                "Depozit \u0219i dob\u00e2nd\u0103 acumulat\u0103"
+            ],
+            "Annual Deposit": [
+                "Depozit anual"
+            ],
+            "Running Deposit": [
+                "Depozit de func\u021bionare"
+            ],
+            "There are unknown values.": [
+                "Exist\u0103 prea multe valori necunoscute."
+            ],
+            "Please make sure all values are entered.": [
+                "V\u0103 rug\u0103m s\u0103 v\u0103 asigura\u021bi c\u0103 toate valorile sunt introduse."
+            ]
+        }
+    }
+}

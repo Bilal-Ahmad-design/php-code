@@ -1,0 +1,213 @@
+{
+    "translation-revision-date": "2021-09-25 21:24-0400",
+    "generator": "WP-CLI\/2.5.0",
+    "source": "js\/interface.SAVINGS-WIDGET.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "nl_NL",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Savings Schedule": [
+                "Spaarplan"
+            ],
+            "en": [
+                "nl"
+            ],
+            "Please use the backspace key to delete.": [
+                "Gebruik de backspace toets om te wissen."
+            ],
+            "Left, up & down arrow keys are disabled. So are the home, end, pgup and pgdn keys.": [
+                "De pijltjestoetsen links, omhoog en omlaag zijn uitgeschakeld. Zo ook de home, end, pgup en pgdn toetsen."
+            ],
+            "Use backspace to delete.": [
+                "Gebruik backspace om te wissen."
+            ],
+            "If value is selected, just start typing new value to clear prior value.": [
+                "Als waarde is geselecteerd, begin dan met het typen van een nieuwe waarde om de vorige waarde te wissen."
+            ],
+            "When a number is selected (value shown in inverse), use right arrow key to clear selection without clearing value. Then backspace to edit.": [
+                "Wanneer een getal is geselecteerd (waarde omgekeerd weergegeven), gebruik dan de rechter pijltjestoets om de selectie te wissen zonder de waarde te wissen. Daarna backspace om te bewerken."
+            ],
+            "TIP: Generally it is best to use the TAB or SHIFT-TAB keys to move from one input to the next or previous input.": [
+                "TIP: Over het algemeen is het het beste om de TAB of SHIFT-TAB toetsen te gebruiken om van de ene invoer naar de volgende of vorige invoer te gaan."
+            ],
+            "TIP 2: Generally, editing a value is inefficient. Since values are auto selected, just type the number you want.": [
+                "TIP 2: Over het algemeen is het bewerken van een waarde ineffici\u00ebnt. Aangezien waarden automatisch worden geselecteerd, hoeft u alleen maar het gewenste getal in te typen."
+            ],
+            "Do not type the thousand separator character.": [
+                "Type het duizendscheidingsteken niet."
+            ],
+            "(If using US convention, that would be the comma.)": [
+                "(Als je de Amerikaanse conventie gebruikt, zou dat de komma zijn.)"
+            ],
+            "I'm smart enough to enter them for you!": [
+                "Ik ben slim genoeg om ze voor je in te voeren!"
+            ],
+            "An unknown date calculation error occurred.": [
+                "Er is een onbekende fout opgetreden bij het berekenen van de datum."
+            ],
+            "Please provide us with your inputs and settings so that we can fix this. Thank you.": [
+                "Geef ons uw input en instellingen, zodat we dit kunnen oplossen. Dank u."
+            ],
+            "Date is not valid - bad year.": [
+                "Datum is niet geldig - slecht jaar."
+            ],
+            "Jan": [
+                "Jan"
+            ],
+            "Feb": [
+                "Feb"
+            ],
+            "Mar": [
+                "Mrt"
+            ],
+            "Apr": [
+                "Apr"
+            ],
+            "May": [
+                "Mei"
+            ],
+            "Jun": [
+                "Jun"
+            ],
+            "Jul": [
+                "Jul"
+            ],
+            "Aug": [
+                "Aug"
+            ],
+            "Sept": [
+                "Sept"
+            ],
+            "Oct": [
+                "Okt"
+            ],
+            "Nov": [
+                "Nov"
+            ],
+            "Dec": [
+                "Dec"
+            ],
+            "Error: dates out of sequence.": [
+                "Fout: data niet op volgorde."
+            ],
+            "Exception": [
+                "Uitzondering"
+            ],
+            "occurred when accessing": [
+                "opgetreden bij de toegang tot"
+            ],
+            "Invalid index": [
+                "Ongeldige index"
+            ],
+            "YTD": [
+                "YTD"
+            ],
+            "Running Totals": [
+                "Lopende Totalen"
+            ],
+            "Your Personalized Savings Schedule": [
+                "Uw persoonlijke spaarplan"
+            ],
+            "Retirement Plan Summary": [
+                "Samenvatting pensioenplan"
+            ],
+            "Total Investmented": [
+                "Totaal ge\u00efnvesteerd"
+            ],
+            "Number of Investments": [
+                "Aantal beleggingen"
+            ],
+            "Return on Investment (ROI)": [
+                "Rendement op investering (ROI)"
+            ],
+            "Total Gain": [
+                "Totale winst"
+            ],
+            "Last Cash Flow Date": [
+                "Laatste kasstroom Datum"
+            ],
+            "Years": [
+                "Jaren"
+            ],
+            "Investment Schedule": [
+                "Investeringsschema"
+            ],
+            "Year": [
+                "Jaar"
+            ],
+            "Date": [
+                "Datum"
+            ],
+            "Interest": [
+                "Rente"
+            ],
+            "Net Change": [
+                "Netto Verandering"
+            ],
+            "Balance": [
+                "Balans"
+            ],
+            "Annual Interest": [
+                "Jaarlijkse rente"
+            ],
+            "Change in Balance": [
+                "Verandering in Balans"
+            ],
+            "Amount Invested & Interest as Percentage of Total Value": [
+                "Ge\u00efnvesteerd bedrag en rente als percentage van de totale waarde"
+            ],
+            "Running Interest": [
+                "Lopend belang"
+            ],
+            "Total Deposits": [
+                "Totaal Deposito's"
+            ],
+            "Total Interest Earned": [
+                "Totaal verdiende rente"
+            ],
+            "Total Value": [
+                "Totale Waarde"
+            ],
+            "Pct. of Total": [
+                "Pct. van Totaal"
+            ],
+            "Number of Deposits": [
+                "Aantal Deposito's"
+            ],
+            "Initial Interest Rate": [
+                "Aanvankelijke rentevoet"
+            ],
+            "Total Interest": [
+                "Totaal rente"
+            ],
+            "Deposit": [
+                "Aanbetaling"
+            ],
+            "\"Net Change\" is change from prior period i.e. prior balance plus deposit, plus interest less withdrawal.": [
+                "\"Nettowijziging\" is de wijziging ten opzichte van de voorgaande periode, d.w.z. saldo plus storting, plus rente minus terugtrekking."
+            ],
+            "Annual Deposit and Interest Totals": [
+                "Jaarlijkse deposito's en rentetotalen"
+            ],
+            "Accumulated Deposit and Interest": [
+                "Gecumuleerde deposito's en rente"
+            ],
+            "Annual Deposit": [
+                "Jaarlijkse storting"
+            ],
+            "Running Deposit": [
+                "Lopend deposito"
+            ],
+            "There are unknown values.": [
+                "Er zijn onbekende waarden."
+            ],
+            "Please make sure all values are entered.": [
+                "Zorg ervoor dat alle waarden zijn ingevuld."
+            ]
+        }
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "translation-revision-date": "2021-09-25 21:19-0400",
+    "generator": "WP-CLI\/2.5.0",
+    "source": "js\/interface.SAVINGS-WIDGET.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "fi",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Savings Schedule": [
+                "S\u00e4\u00e4st\u00f6jen aikataulu"
+            ],
+            "en": [
+                "en"
+            ],
+            "Please use the backspace key to delete.": [
+                "K\u00e4yt\u00e4 poistamiseen backspace-n\u00e4pp\u00e4int\u00e4."
+            ],
+            "Left, up & down arrow keys are disabled. So are the home, end, pgup and pgdn keys.": [
+                "Nuolin\u00e4pp\u00e4imet vasemmalle, yl\u00f6s ja alas ovat pois k\u00e4yt\u00f6st\u00e4. Samoin home-, end-, pgup- ja pgdn-n\u00e4pp\u00e4imet."
+            ],
+            "Use backspace to delete.": [
+                "K\u00e4yt\u00e4 backspacea poistaaksesi."
+            ],
+            "If value is selected, just start typing new value to clear prior value.": [
+                "Jos arvo on valittu, aloita uuden arvon kirjoittaminen tyhjent\u00e4\u00e4ksesi edellisen arvon."
+            ],
+            "When a number is selected (value shown in inverse), use right arrow key to clear selection without clearing value. Then backspace to edit.": [
+                "Kun numero on valittu (arvo n\u00e4kyy k\u00e4\u00e4nteisen\u00e4), voit poistaa valinnan oikealla nuolin\u00e4pp\u00e4imell\u00e4 tyhjent\u00e4m\u00e4tt\u00e4 arvoa. Muokkaa sitten selausn\u00e4pp\u00e4imell\u00e4."
+            ],
+            "TIP: Generally it is best to use the TAB or SHIFT-TAB keys to move from one input to the next or previous input.": [
+                "VINKKI: Yleens\u00e4 on parasta k\u00e4ytt\u00e4\u00e4 TAB- tai SHIFT-TAB-n\u00e4pp\u00e4imi\u00e4 siirty\u00e4ksesi yhdest\u00e4 sy\u00f6tteest\u00e4 seuraavaan tai edelliseen sy\u00f6tteeseen."
+            ],
+            "TIP 2: Generally, editing a value is inefficient. Since values are auto selected, just type the number you want.": [
+                "VINKKI 2: Yleens\u00e4 arvon muokkaaminen on tehotonta. Koska arvot valitaan automaattisesti, kirjoita vain haluamasi luku."
+            ],
+            "Do not type the thousand separator character.": [
+                "\u00c4l\u00e4 kirjoita tuhatta erotusmerkki\u00e4."
+            ],
+            "(If using US convention, that would be the comma.)": [
+                "(Jos k\u00e4ytet\u00e4\u00e4n Yhdysvaltain k\u00e4yt\u00e4nt\u00f6\u00e4, se olisi pilkku.)"
+            ],
+            "I'm smart enough to enter them for you!": [
+                "Olen tarpeeksi fiksu sy\u00f6tt\u00e4m\u00e4\u00e4n ne puolestasi!"
+            ],
+            "An unknown date calculation error occurred.": [
+                "Tapahtui tuntematon p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n laskentavirhe."
+            ],
+            "Please provide us with your inputs and settings so that we can fix this. Thank you.": [
+                "Ilmoita meille sy\u00f6tteesi ja asetuksesi, jotta voimme korjata t\u00e4m\u00e4n. Kiitos."
+            ],
+            "Date is not valid - bad year.": [
+                "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4 ei ole voimassa - huono vuosi."
+            ],
+            "Jan": [
+                "Tammi"
+            ],
+            "Feb": [
+                "Helmi"
+            ],
+            "Mar": [
+                "Maalis"
+            ],
+            "Apr": [
+                "Huhti"
+            ],
+            "May": [
+                "Toukokuu"
+            ],
+            "Jun": [
+                "Kes\u00e4"
+            ],
+            "Jul": [
+                "Hein\u00e4"
+            ],
+            "Aug": [
+                "Elo"
+            ],
+            "Sept": [
+                "Syys"
+            ],
+            "Oct": [
+                "Loka"
+            ],
+            "Nov": [
+                "Mar"
+            ],
+            "Dec": [
+                "Joulu"
+            ],
+            "Error: dates out of sequence.": [
+                "Virhe: p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4t eiv\u00e4t ole j\u00e4rjestyksess\u00e4."
+            ],
+            "Exception": [
+                "Poikkeus"
+            ],
+            "occurred when accessing": [
+                "tapahtui, kun k\u00e4ytettiin"
+            ],
+            "Invalid index": [
+                "Virheellinen indeksi"
+            ],
+            "YTD": [
+                "YTD"
+            ],
+            "Running Totals": [
+                "Juoksevat kokonaissummat"
+            ],
+            "Your Personalized Savings Schedule": [
+                "Henkil\u00f6kohtainen s\u00e4\u00e4st\u00f6aikataulusi"
+            ],
+            "Retirement Plan Summary": [
+                "El\u00e4kej\u00e4rjestelm\u00e4n yhteenveto"
+            ],
+            "Total Investmented": [
+                "Yhteens\u00e4 investoidut"
+            ],
+            "Number of Investments": [
+                "Sijoitusten lukum\u00e4\u00e4r\u00e4"
+            ],
+            "Return on Investment (ROI)": [
+                "Sijoitetun p\u00e4\u00e4oman tuotto (ROI) -laskuri"
+            ],
+            "Total Gain": [
+                "Kokonaisvoitto"
+            ],
+            "Last Cash Flow Date": [
+                "Viimeisin kassavirtap\u00e4iv\u00e4"
+            ],
+            "Years": [
+                "Vuotta"
+            ],
+            "Investment Schedule": [
+                "Sijoitusaikataulu"
+            ],
+            "Year": [
+                "Vuosi"
+            ],
+            "Date": [
+                "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4"
+            ],
+            "Interest": [
+                "Kiinnostuksen kohde"
+            ],
+            "Net Change": [
+                "Nettomuutos"
+            ],
+            "Balance": [
+                "Saldo"
+            ],
+            "Annual Interest": [
+                "Vuotuinen korko"
+            ],
+            "Change in Balance": [
+                "Saldon muutos"
+            ],
+            "Amount Invested & Interest as Percentage of Total Value": [
+                "Sijoitettu m\u00e4\u00e4r\u00e4 ja korko prosentteina kokonaisarvosta"
+            ],
+            "Running Interest": [
+                "Juokseva kiinnostus"
+            ],
+            "Total Deposits": [
+                "Talletukset yhteens\u00e4"
+            ],
+            "Total Interest Earned": [
+                "Ansaittu korko yhteens\u00e4"
+            ],
+            "Total Value": [
+                "Kokonaisarvo"
+            ],
+            "Pct. of Total": [
+                "Prosenttiosuus maksujen kokonaism\u00e4\u00e4r\u00e4st\u00e4"
+            ],
+            "Number of Deposits": [
+                "Talletusten m\u00e4\u00e4r\u00e4"
+            ],
+            "Initial Interest Rate": [
+                "Alkuper\u00e4inen korko"
+            ],
+            "Total Interest": [
+                "Korko yhteens\u00e4"
+            ],
+            "Deposit": [
+                "Ennakkomaksu"
+            ],
+            "\"Net Change\" is change from prior period i.e. prior balance plus deposit, plus interest less withdrawal.": [
+                "\"'Nettomuutos' on muutos edelliseen kauteen verrattuna eli aiempi saldo lis\u00e4ttyn\u00e4 talletuksilla ja koroilla, joista on v\u00e4hennetty nostot."
+            ],
+            "Annual Deposit and Interest Totals": [
+                "Vuotuiset talletukset ja korot yhteens\u00e4"
+            ],
+            "Accumulated Deposit and Interest": [
+                "Kertyneet talletukset ja korot"
+            ],
+            "Annual Deposit": [
+                "Vuotuinen talletus"
+            ],
+            "Running Deposit": [
+                "Juokseva talletus"
+            ],
+            "There are unknown values.": [
+                "Tuntemattomia arvoja on liikaa."
+            ],
+            "Please make sure all values are entered.": [
+                "Varmista, ett\u00e4 kaikki arvot on sy\u00f6tetty."
+            ]
+        }
+    }
+}

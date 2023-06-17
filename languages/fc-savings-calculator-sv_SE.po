@@ -1,0 +1,657 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fc savings calculator plugin\n"
+"POT-Creation-Date: 2021-09-25 21:28-0400\n"
+"PO-Revision-Date: 2021-09-25 21:29-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx\n"
+"X-Poedit-SearchPath-0: en/calculator.gui.php\n"
+"X-Poedit-SearchPath-1: fc-savings-calculator.php\n"
+"X-Poedit-SearchPath-2: js/interface.SAVINGS-WIDGET.js\n"
+
+#: en/calculator.gui.php:21 en/calculator.gui.php:23
+msgid "Savings Calculator"
+msgstr "Kalkylator för besparingar"
+
+#: en/calculator.gui.php:46 en/calculator.gui.php:179 en/calculator.gui.php:313
+#: en/calculator.gui.php:450
+msgid "click for more features"
+msgstr "klicka för fler funktioner"
+
+#: en/calculator.gui.php:57
+msgid "Saved Monthly?"
+msgstr "Sparas varje månad?"
+
+#: en/calculator.gui.php:65 en/calculator.gui.php:193
+msgid "Months? (#)"
+msgstr "Månader? (#)"
+
+#: en/calculator.gui.php:73 en/calculator.gui.php:337 en/calculator.gui.php:472
+msgid "Annual Interest Rate?"
+msgstr "Årlig ränta?"
+
+#: en/calculator.gui.php:83 en/calculator.gui.php:211
+msgid "Final Amount (FV)"
+msgstr "Slutligt belopp (FV)"
+
+#: en/calculator.gui.php:91 en/calculator.gui.php:219 en/calculator.gui.php:355
+#: en/calculator.gui.php:490
+msgid "Interest Earned"
+msgstr "Intjänad ränta"
+
+#: en/calculator.gui.php:98 en/calculator.gui.php:226
+msgid "Total Invested"
+msgstr "Totalt investerat"
+
+#: en/calculator.gui.php:106
+msgid "Last Deposit"
+msgstr "Sista insättning"
+
+#: en/calculator.gui.php:121
+msgid "Calculate"
+msgstr "Beräkna"
+
+#: en/calculator.gui.php:121
+msgid "C"
+msgstr "_Avmarkera alla"
+
+#: en/calculator.gui.php:124 en/calculator.gui.php:254
+#: en/calculator.gui.php:387 en/calculator.gui.php:523
+msgid "Clear"
+msgstr "Rensa"
+
+#: en/calculator.gui.php:124
+msgid "Cl"
+msgstr "Cl"
+
+#: en/calculator.gui.php:127 en/calculator.gui.php:257
+#: en/calculator.gui.php:390 en/calculator.gui.php:526
+msgid "Print"
+msgstr "Skriv ut"
+
+#: en/calculator.gui.php:127
+msgid "P"
+msgstr "P"
+
+#: en/calculator.gui.php:130 en/calculator.gui.php:260
+#: en/calculator.gui.php:393 en/calculator.gui.php:529
+msgid "Help"
+msgstr "Hjälp"
+
+#: en/calculator.gui.php:130
+msgid "H"
+msgstr "H"
+
+#: en/calculator.gui.php:135 en/calculator.gui.php:265
+#: en/calculator.gui.php:398
+msgid "Schedule"
+msgstr "Schema"
+
+#: en/calculator.gui.php:135
+msgid "S"
+msgstr "S"
+
+#: en/calculator.gui.php:138 en/calculator.gui.php:268
+#: en/calculator.gui.php:401 en/calculator.gui.php:537
+msgid "Charts"
+msgstr "Diagram"
+
+#: en/calculator.gui.php:138
+msgid "Ch"
+msgstr "Ch"
+
+#: en/calculator.gui.php:149 en/calculator.gui.php:277
+#: en/calculator.gui.php:409 en/calculator.gui.php:544
+msgid "click to change currency or date format"
+msgstr "klicka för att ändra valuta- eller datumformat"
+
+#: en/calculator.gui.php:185
+msgid "Monthly Savings?"
+msgstr "Besparingar varje månad?"
+
+#: en/calculator.gui.php:201
+msgid "Interest Rate?"
+msgstr "Räntesats?"
+
+#: en/calculator.gui.php:234 en/calculator.gui.php:370
+#: en/calculator.gui.php:505
+msgid "Last Deposit Date"
+msgstr "Datum för sista insättning"
+
+#: en/calculator.gui.php:251 en/calculator.gui.php:384
+#: en/calculator.gui.php:520
+msgid "Calc"
+msgstr "Calc"
+
+#: en/calculator.gui.php:286 en/calculator.gui.php:419
+#: en/calculator.gui.php:552
+msgid "Make me smaller."
+msgstr "Gör mig mindre."
+
+#: en/calculator.gui.php:287 en/calculator.gui.php:420
+#: en/calculator.gui.php:553
+msgid "Original Size"
+msgstr "Ursprunglig storlek"
+
+#: en/calculator.gui.php:288 en/calculator.gui.php:421
+#: en/calculator.gui.php:554
+msgid "Make me larger."
+msgstr "Gör mig större."
+
+#: en/calculator.gui.php:319
+msgid "Periodic Savings?"
+msgstr "Periodiska besparingar?"
+
+#: en/calculator.gui.php:328
+msgid "Number of Months?"
+msgstr "Antal månader?"
+
+#: en/calculator.gui.php:347
+msgid "Final Amount (fv)"
+msgstr "Slutligt belopp (fv)"
+
+#: en/calculator.gui.php:362 en/calculator.gui.php:497
+msgid "Total Amount Invested"
+msgstr "Totalt investerat belopp"
+
+#: en/calculator.gui.php:456
+msgid "Periodic Savings Amount?"
+msgstr "Periodiskt sparande Belopp?"
+
+#: en/calculator.gui.php:464
+msgid "Number of Periods to Save?"
+msgstr "Antal perioder att spara?"
+
+#: en/calculator.gui.php:482
+msgid "Final Amount (future value)"
+msgstr "Slutligt belopp (framtida värde)"
+
+#: en/calculator.gui.php:534 js/interface.SAVINGS-WIDGET.js:15
+msgid "Savings Schedule"
+msgstr "Schema för sparande"
+
+#: en/calculator.gui.php:575
+msgid "Savings Calculator — calculate future value"
+msgstr "Sparräknare - beräkna framtida värde"
+
+#: en/calculator.gui.php:577
+msgid ""
+"This calculator easily answers the question \"If I save \"X\" amount for \"Y"
+"\" months what will the value be at the end?\""
+msgstr ""
+"Den här kalkylatorn svarar enkelt på frågan \"Om jag sparar \"X\" belopp i "
+"\"Y\" månader, vad kommer värdet att vara i slutet?\""
+
+#: en/calculator.gui.php:578
+msgid ""
+"The user enters the \"Periodic Savings Amount\" (amount saved or invested "
+"every month); the \"Number of Months\" and the \"Annual Interest Rate\" or "
+"the annual rate of return one expects to earn on their investments."
+msgstr ""
+"Användaren anger \"Periodiskt sparbelopp\" (belopp som sparas eller "
+"investeras varje månad), \"Antal månader\" och \"Årlig ränta\" eller den "
+"årliga avkastningen som man förväntar sig att få på sina investeringar."
+
+#: en/calculator.gui.php:579
+msgid ""
+"The calculator quickly creates a savings schedule and a set of charts that "
+"will help the user see the relationship between the amount invested and the "
+"return on the investment. The schedule can be copied and pasted to Excel, if "
+"desired."
+msgstr ""
+"Kalkylatorn skapar snabbt en sparplan och en uppsättning diagram som hjälper "
+"användaren att se sambandet mellan det investerade beloppet och avkastningen "
+"på investeringen. Schemat kan kopieras och klistras in i Excel om så önskas."
+
+#: en/calculator.gui.php:580
+msgid "The investment term is always expressed in months."
+msgstr "Investeringstiden anges alltid i månader."
+
+#: en/calculator.gui.php:582
+msgid "60 months = &nbsp;5 years"
+msgstr "60 månader = 5 år"
+
+#: en/calculator.gui.php:583
+msgid "120 months = 10 years"
+msgstr "120 månader = 10 år"
+
+#: en/calculator.gui.php:584
+msgid "180 months = 15 years"
+msgstr "180 månader = 15 år"
+
+#: en/calculator.gui.php:585
+msgid "240 months = 20 years"
+msgstr "240 månader = 20 år"
+
+#: en/calculator.gui.php:586
+msgid "360 months = 30 years"
+msgstr "360 månader = 30 år"
+
+#: en/calculator.gui.php:588
+msgid ""
+"If you need a more advanced \"Savings Calculator\" - one that lets the user "
+"solve for the starting amount, the amount to invest, the interest rate, the "
+"term required to reach a goal or the future value; or if you would like to "
+"easily print the schedule; or if you need to pick a different investment "
+"frequency, then you may want to try the calculator located here"
+msgstr ""
+"Om du behöver en mer avancerad \"sparräknare\" - en som låter användaren "
+"lösa startbeloppet, det belopp som ska investeras, räntesatsen, den tid som "
+"krävs för att nå ett mål eller det framtida värdet, eller om du enkelt vill "
+"skriva ut schemat, eller om du behöver välja en annan investeringsfrekvens, "
+"kan du prova räknaren som finns här"
+
+#: en/calculator.gui.php:610
+msgid "Currency and Date Conventions"
+msgstr "Konventioner för valuta och datum"
+
+#: en/calculator.gui.php:758
+msgid ""
+"All calculators will remember your choice. You may also change it at any "
+"time."
+msgstr ""
+"Alla kalkylatorer kommer att komma ihåg ditt val. Du kan också ändra det när "
+"som helst."
+
+#: en/calculator.gui.php:759
+msgid ""
+"Clicking <b>\"Save changes\"</b> will cause the calculator to reload. Your "
+"edits will be lost."
+msgstr ""
+"Om du klickar på <b>\"Spara ändringar\"</b> laddas kalkylatorn om. Dina "
+"ändringar kommer att gå förlorade."
+
+#: en/calculator.gui.php:762
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: en/calculator.gui.php:763
+msgid "Save changes"
+msgstr "Spara ändringar"
+
+#: fc-savings-calculator.php:227 fc-savings-calculator.php:230
+#: fc-savings-calculator.php:233 fc-savings-calculator.php:502
+#: fc-savings-calculator.php:659 fc-savings-calculator.php:669
+msgid "No"
+msgstr "Nej"
+
+#: fc-savings-calculator.php:489
+msgid "Widget's size?:"
+msgstr "Widgets storlek?:"
+
+#: fc-savings-calculator.php:491
+msgid "Tiny (max width = 150px)"
+msgstr "Liten (max bredd = 150px)"
+
+#: fc-savings-calculator.php:492
+msgid "Small (max width = 290px)"
+msgstr "Liten (max bredd = 290px)"
+
+#: fc-savings-calculator.php:493
+msgid "Medium (max width = 340px)"
+msgstr "Medium (max bredd = 340px)"
+
+#: fc-savings-calculator.php:494
+msgid "Large (max width = 440px)"
+msgstr "Stor (max bredd = 440px)"
+
+#: fc-savings-calculator.php:500
+msgid "Load custom style sheet?:"
+msgstr "Ladda in anpassade formatmallar?:"
+
+#: fc-savings-calculator.php:503 fc-savings-calculator.php:660
+#: fc-savings-calculator.php:670
+msgid "Yes"
+msgstr "Ja"
+
+#: fc-savings-calculator.php:512
+msgid "Set a default currency?:"
+msgstr "Ange en standardvaluta?:"
+
+#: fc-savings-calculator.php:514
+msgid "Use visitor's browser's settings to set currency - do not override."
+msgstr ""
+"Använd besökarens webbläsarinställningar för att ställa in valuta - "
+"åsidosätt inte dessa."
+
+#: fc-savings-calculator.php:639
+msgid "Set a date format convention?:"
+msgstr "Ange en konvention för datumformat?:"
+
+#: fc-savings-calculator.php:641
+msgid "Use visitor's browser's settings to set date format - do not override."
+msgstr ""
+"Använd besökarens webbläsarinställningar för att ställa in datumformatet - "
+"åsidosätt inte detta."
+
+#: fc-savings-calculator.php:657
+msgid "Hide the resize buttons?:"
+msgstr "Dölja knapparna för att ändra storlek?:"
+
+#: fc-savings-calculator.php:667
+msgid "Allow plugin to add a link to AccurateCalculators.com?:"
+msgstr "Tillåt plugin att lägga till en länk till AccurateCalculators.com?:"
+
+#: fc-savings-calculator.php:679
+msgid "Add Your Brand Name:"
+msgstr "Lägg till ditt varumärke:"
+
+#: fc-savings-calculator.php:684
+msgid "Default savings amount:"
+msgstr "Standardbelopp för sparande:"
+
+#: fc-savings-calculator.php:685
+msgid "Default number of months:"
+msgstr "Standardantal månader:"
+
+#: fc-savings-calculator.php:688
+msgid "Default interest rate:"
+msgstr "Förfallna räntesatser:"
+
+#: fc-savings-calculator.php:690
+msgid "Enter only digits.<br>No formatting."
+msgstr "Ange endast siffror.<br>Ingen formatering."
+
+#: fc-savings-calculator.php:715
+msgid "Savings Calculator by AccurateCalculators.com"
+msgstr "Sparräknare av AccurateCalculators.com"
+
+#: fc-savings-calculator.php:717
+msgid "FC Savings Calculator"
+msgstr "Kalkylator för FC-besparingar"
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid "en"
+msgstr "sv"
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid "Please use the backspace key to delete."
+msgstr "Använd backspace-tangenten för att radera."
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid ""
+"Left, up & down arrow keys are disabled. So are the home, end, pgup and pgdn "
+"keys."
+msgstr ""
+"Vänster, uppåt och nedåt piltangenterna är inaktiverade. Det samma gäller "
+"tangenterna home, end, pgup och pgdn."
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid "Use backspace to delete."
+msgstr "Använd backspace för att radera."
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid "If value is selected, just start typing new value to clear prior value."
+msgstr ""
+"Om värdet är valt är det bara att börja skriva in ett nytt värde för att "
+"radera det tidigare värdet."
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid ""
+"When a number is selected (value shown in inverse), use right arrow key to "
+"clear selection without clearing value. Then backspace to edit."
+msgstr ""
+"När ett nummer är valt (värdet visas i omvänt läge) kan du använda "
+"högerpilen för att radera valet utan att radera värdet. Backa sedan för att "
+"redigera."
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid ""
+"TIP: Generally it is best to use the TAB or SHIFT-TAB keys to move from one "
+"input to the next or previous input."
+msgstr ""
+"TIPS: I allmänhet är det bäst att använda TAB- eller SHIFT-TAB-tangenterna "
+"för att gå från en inmatning till nästa eller föregående inmatning."
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid ""
+"TIP 2: Generally, editing a value is inefficient. Since values are auto "
+"selected, just type the number you want."
+msgstr ""
+"TIPS 2: Generellt sett är det ineffektivt att redigera ett värde. Eftersom "
+"värdena är automatiskt valda är det bara att skriva in den siffra du vill ha."
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid "Do not type the thousand separator character."
+msgstr "Ange inte separatortecknet för tusen."
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid "(If using US convention, that would be the comma.)"
+msgstr "(Om man använder amerikansk konvention är det kommatecken.)"
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid "I'm smart enough to enter them for you!"
+msgstr "Jag är smart nog att skriva in dem åt dig!"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "An unknown date calculation error occurred."
+msgstr "Ett okänt datumberäkningsfel har inträffat."
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid ""
+"Please provide us with your inputs and settings so that we can fix this. "
+"Thank you."
+msgstr ""
+"Vänligen ge oss dina inmatningar och inställningar så att vi kan åtgärda "
+"detta. Tack."
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Date is not valid - bad year."
+msgstr "Datumet är inte giltigt - dåligt år."
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Jan"
+msgstr "Jan"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Feb"
+msgstr "Feb"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Mar"
+msgstr "Mars"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Apr"
+msgstr "Apr"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "May"
+msgstr "Maj"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Jun"
+msgstr "Jun"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Jul"
+msgstr "Jul"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Aug"
+msgstr "Aug"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Sept"
+msgstr "Sep"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Oct"
+msgstr "Okt"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Nov"
+msgstr "Nov"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Dec"
+msgstr "Dec"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Error: dates out of sequence."
+msgstr "Fel: datum i fel ordning."
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Exception"
+msgstr "Undantag"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "occurred when accessing"
+msgstr "inträffade vid åtkomst till"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Invalid index"
+msgstr "Ogiltigt index"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "YTD"
+msgstr "YTD"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Running Totals"
+msgstr "Summa löpande"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Your Personalized Savings Schedule"
+msgstr "Din personliga sparplan"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Retirement Plan Summary"
+msgstr "Sammanfattning av pensionsplanen"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Total Investmented"
+msgstr "Totalt investerat"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Number of Investments"
+msgstr "Antal investeringar"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Return on Investment (ROI)"
+msgstr "Avkastning på investeringar (ROI)"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Total Gain"
+msgstr "Total vinst"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Last Cash Flow Date"
+msgstr "Senaste kassaflöde Datum"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Years"
+msgstr "År"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Investment Schedule"
+msgstr "Investeringsschema"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Year"
+msgstr "År"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Date"
+msgstr "Datum"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Interest"
+msgstr "Ränta"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Net Change"
+msgstr "Nettoförändring"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Balance"
+msgstr "Saldo"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Annual Interest"
+msgstr "Årlig ränta"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Change in Balance"
+msgstr "Förändring av saldot"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Amount Invested & Interest as Percentage of Total Value"
+msgstr "Investerat belopp och ränta i procent av det totala värdet"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Running Interest"
+msgstr "Rörande ränta"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Total Deposits"
+msgstr "Totala insättningar"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Total Interest Earned"
+msgstr "Totalt intjänad ränta"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Total Value"
+msgstr "Totalt värde"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Pct. of Total"
+msgstr "Procent av totalsumman"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Number of Deposits"
+msgstr "Antal insättningar"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Initial Interest Rate"
+msgstr "Ursprunglig räntesats"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Total Interest"
+msgstr "Total ränta"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Deposit"
+msgstr "Deposition"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid ""
+"\"Net Change\" is change from prior period i.e. prior balance plus deposit, "
+"plus interest less withdrawal."
+msgstr ""
+"\"Nettoförändring\" är förändringen från föregående period, dvs. föregående "
+"saldo plus insättning plus ränta minus uttag."
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Annual Deposit and Interest Totals"
+msgstr "Totala årliga insättningar och räntor"
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "Accumulated Deposit and Interest"
+msgstr "Ackumulerad insättning och ränta"
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "Annual Deposit"
+msgstr "Årlig insättning"
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "Running Deposit"
+msgstr "Löpande insättning"
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "There are unknown values."
+msgstr "Det finns okända värden."
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "Please make sure all values are entered."
+msgstr "Kontrollera att alla värden har angetts."

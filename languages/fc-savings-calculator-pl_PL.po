@@ -1,0 +1,661 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fc savings calculator plugin\n"
+"POT-Creation-Date: 2021-09-25 21:24-0400\n"
+"PO-Revision-Date: 2021-09-25 21:25-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx\n"
+"X-Poedit-SearchPath-0: en/calculator.gui.php\n"
+"X-Poedit-SearchPath-1: fc-savings-calculator.php\n"
+"X-Poedit-SearchPath-2: js/interface.SAVINGS-WIDGET.js\n"
+
+#: en/calculator.gui.php:21 en/calculator.gui.php:23
+msgid "Savings Calculator"
+msgstr "Kalkulator oszczędnościowy"
+
+#: en/calculator.gui.php:46 en/calculator.gui.php:179 en/calculator.gui.php:313
+#: en/calculator.gui.php:450
+msgid "click for more features"
+msgstr "kliknij, aby zobaczyć więcej funkcji"
+
+#: en/calculator.gui.php:57
+msgid "Saved Monthly?"
+msgstr "Oszczędzasz co miesiąc?"
+
+#: en/calculator.gui.php:65 en/calculator.gui.php:193
+msgid "Months? (#)"
+msgstr "Miesiące? (#)"
+
+#: en/calculator.gui.php:73 en/calculator.gui.php:337 en/calculator.gui.php:472
+msgid "Annual Interest Rate?"
+msgstr "Roczna stopa procentowa?"
+
+#: en/calculator.gui.php:83 en/calculator.gui.php:211
+msgid "Final Amount (FV)"
+msgstr "Kwota końcowa (FV)"
+
+#: en/calculator.gui.php:91 en/calculator.gui.php:219 en/calculator.gui.php:355
+#: en/calculator.gui.php:490
+msgid "Interest Earned"
+msgstr "Odsetki uzyskane"
+
+#: en/calculator.gui.php:98 en/calculator.gui.php:226
+msgid "Total Invested"
+msgstr "Ogółem zainwestowane"
+
+#: en/calculator.gui.php:106
+msgid "Last Deposit"
+msgstr "Ostatnia wpłata"
+
+#: en/calculator.gui.php:121
+msgid "Calculate"
+msgstr "Oblicz"
+
+#: en/calculator.gui.php:121
+msgid "C"
+msgstr "C"
+
+#: en/calculator.gui.php:124 en/calculator.gui.php:254
+#: en/calculator.gui.php:387 en/calculator.gui.php:523
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: en/calculator.gui.php:124
+msgid "Cl"
+msgstr "Cl"
+
+#: en/calculator.gui.php:127 en/calculator.gui.php:257
+#: en/calculator.gui.php:390 en/calculator.gui.php:526
+msgid "Print"
+msgstr "Drukuj"
+
+#: en/calculator.gui.php:127
+msgid "P"
+msgstr "P"
+
+#: en/calculator.gui.php:130 en/calculator.gui.php:260
+#: en/calculator.gui.php:393 en/calculator.gui.php:529
+msgid "Help"
+msgstr "Pomoc"
+
+#: en/calculator.gui.php:130
+msgid "H"
+msgstr "H"
+
+#: en/calculator.gui.php:135 en/calculator.gui.php:265
+#: en/calculator.gui.php:398
+msgid "Schedule"
+msgstr "Harmonogram"
+
+#: en/calculator.gui.php:135
+msgid "S"
+msgstr "S"
+
+#: en/calculator.gui.php:138 en/calculator.gui.php:268
+#: en/calculator.gui.php:401 en/calculator.gui.php:537
+msgid "Charts"
+msgstr "Wykresy"
+
+#: en/calculator.gui.php:138
+msgid "Ch"
+msgstr "Ch"
+
+#: en/calculator.gui.php:149 en/calculator.gui.php:277
+#: en/calculator.gui.php:409 en/calculator.gui.php:544
+msgid "click to change currency or date format"
+msgstr "kliknij, aby zmienić format waluty lub daty"
+
+#: en/calculator.gui.php:185
+msgid "Monthly Savings?"
+msgstr "Miesięczne oszczędności?"
+
+#: en/calculator.gui.php:201
+msgid "Interest Rate?"
+msgstr "Stopa procentowa?"
+
+#: en/calculator.gui.php:234 en/calculator.gui.php:370
+#: en/calculator.gui.php:505
+msgid "Last Deposit Date"
+msgstr "Data ostatniej wpłaty"
+
+#: en/calculator.gui.php:251 en/calculator.gui.php:384
+#: en/calculator.gui.php:520
+msgid "Calc"
+msgstr "Calc"
+
+#: en/calculator.gui.php:286 en/calculator.gui.php:419
+#: en/calculator.gui.php:552
+msgid "Make me smaller."
+msgstr "Zrób mnie mniejszym."
+
+#: en/calculator.gui.php:287 en/calculator.gui.php:420
+#: en/calculator.gui.php:553
+msgid "Original Size"
+msgstr "Oryginalny rozmiar"
+
+#: en/calculator.gui.php:288 en/calculator.gui.php:421
+#: en/calculator.gui.php:554
+msgid "Make me larger."
+msgstr "Powiększ mnie."
+
+#: en/calculator.gui.php:319
+msgid "Periodic Savings?"
+msgstr "Oszczędności okresowe?"
+
+#: en/calculator.gui.php:328
+msgid "Number of Months?"
+msgstr "Liczba miesięcy?"
+
+#: en/calculator.gui.php:347
+msgid "Final Amount (fv)"
+msgstr "Kwota końcowa (fv)"
+
+#: en/calculator.gui.php:362 en/calculator.gui.php:497
+msgid "Total Amount Invested"
+msgstr "Łączna kwota zainwestowana"
+
+#: en/calculator.gui.php:456
+msgid "Periodic Savings Amount?"
+msgstr "Kwota Okresowego Oszczędzania?"
+
+#: en/calculator.gui.php:464
+msgid "Number of Periods to Save?"
+msgstr "Liczba okresów do zapisania?"
+
+#: en/calculator.gui.php:482
+msgid "Final Amount (future value)"
+msgstr "Kwota końcowa (wartość przyszła)"
+
+#: en/calculator.gui.php:534 js/interface.SAVINGS-WIDGET.js:15
+msgid "Savings Schedule"
+msgstr "Harmonogram oszczędzania"
+
+#: en/calculator.gui.php:575
+msgid "Savings Calculator — calculate future value"
+msgstr "Kalkulator oszczędnościowy - obliczanie przyszłej wartości"
+
+#: en/calculator.gui.php:577
+msgid ""
+"This calculator easily answers the question \"If I save \"X\" amount for \"Y"
+"\" months what will the value be at the end?\""
+msgstr ""
+"Ten kalkulator w prosty sposób odpowiada na pytanie \"Jeśli oszczędzę \"X\" "
+"kwoty przez \"Y\" miesięcy, jaka będzie wartość na koniec?\""
+
+#: en/calculator.gui.php:578
+msgid ""
+"The user enters the \"Periodic Savings Amount\" (amount saved or invested "
+"every month); the \"Number of Months\" and the \"Annual Interest Rate\" or "
+"the annual rate of return one expects to earn on their investments."
+msgstr ""
+"Użytkownik wprowadza \"Kwotę Okresowego Oszczędzania\" (kwota oszczędzana "
+"lub inwestowana co miesiąc); \"Liczbę Miesięcy\" oraz \"Roczną Stopę "
+"Oprocentowania\" lub roczną stopę zwrotu, jaką spodziewa się uzyskać z "
+"inwestycji."
+
+#: en/calculator.gui.php:579
+msgid ""
+"The calculator quickly creates a savings schedule and a set of charts that "
+"will help the user see the relationship between the amount invested and the "
+"return on the investment. The schedule can be copied and pasted to Excel, if "
+"desired."
+msgstr ""
+"Kalkulator szybko tworzy harmonogram oszczędzania oraz zestaw wykresów, "
+"które pomogą użytkownikowi dostrzec zależność pomiędzy zainwestowaną kwotą a "
+"stopą zwrotu z inwestycji. Harmonogram można skopiować i wkleić do Excela, "
+"jeśli jest taka potrzeba."
+
+#: en/calculator.gui.php:580
+msgid "The investment term is always expressed in months."
+msgstr "Okres inwestycji jest zawsze wyrażony w miesiącach."
+
+#: en/calculator.gui.php:582
+msgid "60 months = &nbsp;5 years"
+msgstr "60 miesięcy = 5 lat"
+
+#: en/calculator.gui.php:583
+msgid "120 months = 10 years"
+msgstr "120 miesięcy = 10 lat"
+
+#: en/calculator.gui.php:584
+msgid "180 months = 15 years"
+msgstr "180 miesięcy = 15 lat"
+
+#: en/calculator.gui.php:585
+msgid "240 months = 20 years"
+msgstr "240 miesięcy = 20 lat"
+
+#: en/calculator.gui.php:586
+msgid "360 months = 30 years"
+msgstr "360 miesięcy = 30 lat"
+
+#: en/calculator.gui.php:588
+msgid ""
+"If you need a more advanced \"Savings Calculator\" - one that lets the user "
+"solve for the starting amount, the amount to invest, the interest rate, the "
+"term required to reach a goal or the future value; or if you would like to "
+"easily print the schedule; or if you need to pick a different investment "
+"frequency, then you may want to try the calculator located here"
+msgstr ""
+"Jeśli potrzebujesz bardziej zaawansowanego \"Kalkulatora Oszczędności\" - "
+"takiego, który pozwala użytkownikowi na rozwiązanie problemu kwoty "
+"początkowej, kwoty do zainwestowania, stopy procentowej, okresu wymaganego "
+"do osiągnięcia celu lub wartości przyszłej; lub jeśli chciałbyś łatwo "
+"wydrukować harmonogram; lub jeśli musisz wybrać inną częstotliwość "
+"inwestycji, wtedy możesz spróbować kalkulatora znajdującego się tutaj"
+
+#: en/calculator.gui.php:610
+msgid "Currency and Date Conventions"
+msgstr "Konwencje walutowe i daktyloskopijne"
+
+#: en/calculator.gui.php:758
+msgid ""
+"All calculators will remember your choice. You may also change it at any "
+"time."
+msgstr ""
+"Wszystkie kalkulatory zapamiętają Twój wybór. Możesz go również zmienić w "
+"dowolnym momencie."
+
+#: en/calculator.gui.php:759
+msgid ""
+"Clicking <b>\"Save changes\"</b> will cause the calculator to reload. Your "
+"edits will be lost."
+msgstr ""
+"Kliknięcie przycisku <b>\"Zapisz zmiany\"</b> spowoduje ponowne załadowanie "
+"kalkulatora. Twoje zmiany zostaną utracone."
+
+#: en/calculator.gui.php:762
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: en/calculator.gui.php:763
+msgid "Save changes"
+msgstr "Zapisz zmiany"
+
+#: fc-savings-calculator.php:227 fc-savings-calculator.php:230
+#: fc-savings-calculator.php:233 fc-savings-calculator.php:502
+#: fc-savings-calculator.php:659 fc-savings-calculator.php:669
+msgid "No"
+msgstr "Nie"
+
+#: fc-savings-calculator.php:489
+msgid "Widget's size?:"
+msgstr "Rozmiar widżetu?"
+
+#: fc-savings-calculator.php:491
+msgid "Tiny (max width = 150px)"
+msgstr "Tiny (max szerokość = 150px)"
+
+#: fc-savings-calculator.php:492
+msgid "Small (max width = 290px)"
+msgstr "Small (max szerokość = 290px)"
+
+#: fc-savings-calculator.php:493
+msgid "Medium (max width = 340px)"
+msgstr "Medium (max szerokość = 340px)"
+
+#: fc-savings-calculator.php:494
+msgid "Large (max width = 440px)"
+msgstr "Duży (max szerokość = 440px)"
+
+#: fc-savings-calculator.php:500
+msgid "Load custom style sheet?:"
+msgstr "Załadować niestandardowy arkusz stylów?"
+
+#: fc-savings-calculator.php:503 fc-savings-calculator.php:660
+#: fc-savings-calculator.php:670
+msgid "Yes"
+msgstr "Tak"
+
+#: fc-savings-calculator.php:512
+msgid "Set a default currency?:"
+msgstr "Ustawić domyślną walutę?"
+
+#: fc-savings-calculator.php:514
+msgid "Use visitor's browser's settings to set currency - do not override."
+msgstr ""
+"Użyj ustawień przeglądarki odwiedzającego, aby ustawić walutę - nie zastępuj "
+"jej."
+
+#: fc-savings-calculator.php:639
+msgid "Set a date format convention?:"
+msgstr "Ustawić konwencję formatu daty?"
+
+#: fc-savings-calculator.php:641
+msgid "Use visitor's browser's settings to set date format - do not override."
+msgstr ""
+"Użyj ustawień przeglądarki odwiedzającego, aby ustawić format daty - nie "
+"zastępuj go."
+
+#: fc-savings-calculator.php:657
+msgid "Hide the resize buttons?:"
+msgstr "Ukryć przyciski zmiany rozmiaru?"
+
+#: fc-savings-calculator.php:667
+msgid "Allow plugin to add a link to AccurateCalculators.com?:"
+msgstr "Pozwól pluginowi dodać link do AccurateCalculators.com?"
+
+#: fc-savings-calculator.php:679
+msgid "Add Your Brand Name:"
+msgstr "Dodaj swoją nazwę marki:"
+
+#: fc-savings-calculator.php:684
+msgid "Default savings amount:"
+msgstr "Domyślna kwota oszczędności:"
+
+#: fc-savings-calculator.php:685
+msgid "Default number of months:"
+msgstr "Domyślna liczba miesięcy:"
+
+#: fc-savings-calculator.php:688
+msgid "Default interest rate:"
+msgstr "Domyślna stopa procentowa:"
+
+#: fc-savings-calculator.php:690
+msgid "Enter only digits.<br>No formatting."
+msgstr "Wprowadź tylko cyfry.<br>Bez formatowania."
+
+#: fc-savings-calculator.php:715
+msgid "Savings Calculator by AccurateCalculators.com"
+msgstr "Kalkulator oszczędnościowy by AccurateCalculators.com"
+
+#: fc-savings-calculator.php:717
+msgid "FC Savings Calculator"
+msgstr "Kalkulator Oszczędności FC"
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid "en"
+msgstr "pl"
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid "Please use the backspace key to delete."
+msgstr "Proszę użyć klawisza backspace, aby usunąć."
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid ""
+"Left, up & down arrow keys are disabled. So are the home, end, pgup and pgdn "
+"keys."
+msgstr ""
+"Klawisze strzałek w lewo, w górę i w dół są wyłączone. Tak samo klawisze "
+"home, end, pgup i pgdn."
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid "Use backspace to delete."
+msgstr "Użyj backspace, aby usunąć."
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid "If value is selected, just start typing new value to clear prior value."
+msgstr ""
+"Jeżeli wartość jest wybrana, wystarczy zacząć wpisywać nową wartość, aby "
+"wyczyścić poprzednią."
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid ""
+"When a number is selected (value shown in inverse), use right arrow key to "
+"clear selection without clearing value. Then backspace to edit."
+msgstr ""
+"Gdy wybrana jest liczba (wartość pokazana odwrotnie), użyj klawisza strzałki "
+"w prawo, aby usunąć zaznaczenie bez usuwania wartości. Następnie backspace, "
+"aby edytować."
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid ""
+"TIP: Generally it is best to use the TAB or SHIFT-TAB keys to move from one "
+"input to the next or previous input."
+msgstr ""
+"WSKAZÓWKA: Ogólnie rzecz biorąc, najlepiej jest używać klawiszy TAB lub "
+"SHIFT-TAB do przechodzenia z jednego wejścia do następnego lub poprzedniego."
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid ""
+"TIP 2: Generally, editing a value is inefficient. Since values are auto "
+"selected, just type the number you want."
+msgstr ""
+"PORADA 2: Ogólnie rzecz biorąc, edycja wartości jest nieefektywna. Ponieważ "
+"wartości są automatycznie wybierane, po prostu wpisz liczbę, którą chcesz."
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid "Do not type the thousand separator character."
+msgstr "Nie należy wpisywać znaku separatora tysięcy."
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid "(If using US convention, that would be the comma.)"
+msgstr "(Jeśli stosujemy konwencję amerykańską, byłby to przecinek)"
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid "I'm smart enough to enter them for you!"
+msgstr "Jestem na tyle sprytny, że wprowadzę je za Ciebie!"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "An unknown date calculation error occurred."
+msgstr "Wystąpił nieznany błąd obliczania daty."
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid ""
+"Please provide us with your inputs and settings so that we can fix this. "
+"Thank you."
+msgstr ""
+"Proszę podać nam swoje dane wejściowe i ustawienia, abyśmy mogli to "
+"naprawić. Dziękuję."
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Date is not valid - bad year."
+msgstr "Data jest nieprawidłowa - zły rok."
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Jan"
+msgstr "Sty"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Feb"
+msgstr "Lut"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Mar"
+msgstr "Mar"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Apr"
+msgstr "Kwiecień"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "May"
+msgstr "Maj"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Jun"
+msgstr "Cze"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Jul"
+msgstr "Lip"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Aug"
+msgstr "Sierpień"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Sept"
+msgstr "Wrz"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Oct"
+msgstr "Paź"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Nov"
+msgstr "Lis"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Dec"
+msgstr "Gru"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Error: dates out of sequence."
+msgstr "Błąd: daty poza kolejnością."
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Exception"
+msgstr "Wyjątek"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "occurred when accessing"
+msgstr "wystąpił podczas dostępu do"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Invalid index"
+msgstr "Nieprawidłowy indeks"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "YTD"
+msgstr "Rok do daty"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Running Totals"
+msgstr "Bieżące sumy"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Your Personalized Savings Schedule"
+msgstr "Twój indywidualny harmonogram oszczędzania"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Retirement Plan Summary"
+msgstr "Podsumowanie planu emerytalnego"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Total Investmented"
+msgstr "Zainwestowane ogółem"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Number of Investments"
+msgstr "Liczba inwestycji"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Return on Investment (ROI)"
+msgstr "Zwrot z inwestycji (ROI)"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Total Gain"
+msgstr "Zysk całkowity"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Last Cash Flow Date"
+msgstr "Data ostatniego przepływu środków pieniężnych"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Years"
+msgstr "Lata"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Investment Schedule"
+msgstr "Harmonogram inwestycji"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Year"
+msgstr "Rok"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Date"
+msgstr "Data"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Interest"
+msgstr "Odsetki"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Net Change"
+msgstr "Zmiana netto"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Balance"
+msgstr "Saldo"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Annual Interest"
+msgstr "Odsetki roczne"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Change in Balance"
+msgstr "Zmiana salda"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Amount Invested & Interest as Percentage of Total Value"
+msgstr "Kwota zainwestowana i odsetki jako procent wartości całkowitej"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Running Interest"
+msgstr "Bieżące zainteresowanie"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Total Deposits"
+msgstr "Depozyty ogółem"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Total Interest Earned"
+msgstr "Odsetki uzyskane ogółem"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Total Value"
+msgstr "Wartość ogółem"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Pct. of Total"
+msgstr "Procent ogółu"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Number of Deposits"
+msgstr "Liczba depozytów"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Initial Interest Rate"
+msgstr "Początkowa stopa procentowa"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Total Interest"
+msgstr "Odsetki"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Deposit"
+msgstr "Depozyt"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid ""
+"\"Net Change\" is change from prior period i.e. prior balance plus deposit, "
+"plus interest less withdrawal."
+msgstr ""
+"\"Zmiana netto\" to zmiana w stosunku do poprzedniego okresu, tj. poprzednie "
+"saldo plus depozyt, plus odsetki minus wypłata."
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Annual Deposit and Interest Totals"
+msgstr "Roczne depozyty i odsetki ogółem"
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "Accumulated Deposit and Interest"
+msgstr "Skumulowana lokata i odsetki"
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "Annual Deposit"
+msgstr "Depozyt roczny"
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "Running Deposit"
+msgstr "Depozyt bieżący"
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "There are unknown values."
+msgstr "Istnieją nieznane wartości."
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "Please make sure all values are entered."
+msgstr "Proszę upewnić się, że wszystkie wartości zostały wprowadzone."

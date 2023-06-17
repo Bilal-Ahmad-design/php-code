@@ -1,0 +1,663 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fc savings calculator plugin\n"
+"POT-Creation-Date: 2021-09-25 21:26-0400\n"
+"PO-Revision-Date: 2021-09-25 21:27-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && n"
+"%100<=19) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx\n"
+"X-Poedit-SearchPath-0: en/calculator.gui.php\n"
+"X-Poedit-SearchPath-1: fc-savings-calculator.php\n"
+"X-Poedit-SearchPath-2: js/interface.SAVINGS-WIDGET.js\n"
+
+#: en/calculator.gui.php:21 en/calculator.gui.php:23
+msgid "Savings Calculator"
+msgstr "Calculator de economii"
+
+#: en/calculator.gui.php:46 en/calculator.gui.php:179 en/calculator.gui.php:313
+#: en/calculator.gui.php:450
+msgid "click for more features"
+msgstr "click pentru mai multe caracteristici"
+
+#: en/calculator.gui.php:57
+msgid "Saved Monthly?"
+msgstr "Economisit lunar?"
+
+#: en/calculator.gui.php:65 en/calculator.gui.php:193
+msgid "Months? (#)"
+msgstr "Luni? (#)"
+
+#: en/calculator.gui.php:73 en/calculator.gui.php:337 en/calculator.gui.php:472
+msgid "Annual Interest Rate?"
+msgstr "Rata anuală a dobânzii?"
+
+#: en/calculator.gui.php:83 en/calculator.gui.php:211
+msgid "Final Amount (FV)"
+msgstr "Suma finală (FV)"
+
+#: en/calculator.gui.php:91 en/calculator.gui.php:219 en/calculator.gui.php:355
+#: en/calculator.gui.php:490
+msgid "Interest Earned"
+msgstr "Dobânda câștigată"
+
+#: en/calculator.gui.php:98 en/calculator.gui.php:226
+msgid "Total Invested"
+msgstr "Total investit"
+
+#: en/calculator.gui.php:106
+msgid "Last Deposit"
+msgstr "Ultimul Depozit"
+
+#: en/calculator.gui.php:121
+msgid "Calculate"
+msgstr "Calculează"
+
+#: en/calculator.gui.php:121
+msgid "C"
+msgstr "C"
+
+#: en/calculator.gui.php:124 en/calculator.gui.php:254
+#: en/calculator.gui.php:387 en/calculator.gui.php:523
+msgid "Clear"
+msgstr "Șterge"
+
+#: en/calculator.gui.php:124
+msgid "Cl"
+msgstr "Cl"
+
+#: en/calculator.gui.php:127 en/calculator.gui.php:257
+#: en/calculator.gui.php:390 en/calculator.gui.php:526
+msgid "Print"
+msgstr "Printare"
+
+#: en/calculator.gui.php:127
+msgid "P"
+msgstr "P"
+
+#: en/calculator.gui.php:130 en/calculator.gui.php:260
+#: en/calculator.gui.php:393 en/calculator.gui.php:529
+msgid "Help"
+msgstr "Ajutor"
+
+#: en/calculator.gui.php:130
+msgid "H"
+msgstr "H"
+
+#: en/calculator.gui.php:135 en/calculator.gui.php:265
+#: en/calculator.gui.php:398
+msgid "Schedule"
+msgstr "Program"
+
+#: en/calculator.gui.php:135
+msgid "S"
+msgstr "S"
+
+#: en/calculator.gui.php:138 en/calculator.gui.php:268
+#: en/calculator.gui.php:401 en/calculator.gui.php:537
+msgid "Charts"
+msgstr "Diagrame"
+
+#: en/calculator.gui.php:138
+msgid "Ch"
+msgstr "Ch"
+
+#: en/calculator.gui.php:149 en/calculator.gui.php:277
+#: en/calculator.gui.php:409 en/calculator.gui.php:544
+msgid "click to change currency or date format"
+msgstr "faceți clic pentru a schimba formatul monedei sau al datei"
+
+#: en/calculator.gui.php:185
+msgid "Monthly Savings?"
+msgstr "Economii lunare?"
+
+#: en/calculator.gui.php:201
+msgid "Interest Rate?"
+msgstr "Rata dobânzii?"
+
+#: en/calculator.gui.php:234 en/calculator.gui.php:370
+#: en/calculator.gui.php:505
+msgid "Last Deposit Date"
+msgstr "Data ultimului depozit"
+
+#: en/calculator.gui.php:251 en/calculator.gui.php:384
+#: en/calculator.gui.php:520
+msgid "Calc"
+msgstr "Calc"
+
+#: en/calculator.gui.php:286 en/calculator.gui.php:419
+#: en/calculator.gui.php:552
+msgid "Make me smaller."
+msgstr "Fă-mă mai mic."
+
+#: en/calculator.gui.php:287 en/calculator.gui.php:420
+#: en/calculator.gui.php:553
+msgid "Original Size"
+msgstr "Original"
+
+#: en/calculator.gui.php:288 en/calculator.gui.php:421
+#: en/calculator.gui.php:554
+msgid "Make me larger."
+msgstr "Fă-mă mai mare."
+
+#: en/calculator.gui.php:319
+msgid "Periodic Savings?"
+msgstr "Economii periodice?"
+
+#: en/calculator.gui.php:328
+msgid "Number of Months?"
+msgstr "Număr de luni?"
+
+#: en/calculator.gui.php:347
+msgid "Final Amount (fv)"
+msgstr "Suma finală (fv)"
+
+#: en/calculator.gui.php:362 en/calculator.gui.php:497
+msgid "Total Amount Invested"
+msgstr "Suma totală investită"
+
+#: en/calculator.gui.php:456
+msgid "Periodic Savings Amount?"
+msgstr "Suma economiilor periodice?"
+
+#: en/calculator.gui.php:464
+msgid "Number of Periods to Save?"
+msgstr "Numărul de perioade de salvat?"
+
+#: en/calculator.gui.php:482
+msgid "Final Amount (future value)"
+msgstr "Suma finală (valoare viitoare)"
+
+#: en/calculator.gui.php:534 js/interface.SAVINGS-WIDGET.js:15
+msgid "Savings Schedule"
+msgstr "Program de economisire"
+
+#: en/calculator.gui.php:575
+msgid "Savings Calculator — calculate future value"
+msgstr "Calculator de economii - calculați valoarea viitoare"
+
+#: en/calculator.gui.php:577
+msgid ""
+"This calculator easily answers the question \"If I save \"X\" amount for \"Y"
+"\" months what will the value be at the end?\""
+msgstr ""
+"Acest calculator răspunde cu ușurință la întrebarea \"Dacă economisesc o "
+"sumă \"X\" timp de \"Y\" luni, care va fi valoarea la final?\""
+
+#: en/calculator.gui.php:578
+msgid ""
+"The user enters the \"Periodic Savings Amount\" (amount saved or invested "
+"every month); the \"Number of Months\" and the \"Annual Interest Rate\" or "
+"the annual rate of return one expects to earn on their investments."
+msgstr ""
+"Utilizatorul introduce \"Suma economiilor periodice\" (suma economisită sau "
+"investită în fiecare lună); \"Numărul de luni\" și \"Rata anuală a dobânzii"
+"\" sau rata anuală de rentabilitate pe care se așteaptă să o obțină din "
+"investițiile sale."
+
+#: en/calculator.gui.php:579
+msgid ""
+"The calculator quickly creates a savings schedule and a set of charts that "
+"will help the user see the relationship between the amount invested and the "
+"return on the investment. The schedule can be copied and pasted to Excel, if "
+"desired."
+msgstr ""
+"Calculatorul creează rapid un program de economisire și un set de grafice "
+"care îl vor ajuta pe utilizator să vadă relația dintre suma investită și "
+"randamentul investiției. Programul poate fi copiat și lipit în Excel, dacă "
+"se dorește."
+
+#: en/calculator.gui.php:580
+msgid "The investment term is always expressed in months."
+msgstr "Termenul de investiție este întotdeauna exprimat în luni."
+
+#: en/calculator.gui.php:582
+msgid "60 months = &nbsp;5 years"
+msgstr "60 de luni = 5 ani"
+
+#: en/calculator.gui.php:583
+msgid "120 months = 10 years"
+msgstr "120 de luni = 10 ani"
+
+#: en/calculator.gui.php:584
+msgid "180 months = 15 years"
+msgstr "180 de luni = 15 ani"
+
+#: en/calculator.gui.php:585
+msgid "240 months = 20 years"
+msgstr "240 de luni = 20 de ani"
+
+#: en/calculator.gui.php:586
+msgid "360 months = 30 years"
+msgstr "360 de luni = 30 de ani"
+
+#: en/calculator.gui.php:588
+msgid ""
+"If you need a more advanced \"Savings Calculator\" - one that lets the user "
+"solve for the starting amount, the amount to invest, the interest rate, the "
+"term required to reach a goal or the future value; or if you would like to "
+"easily print the schedule; or if you need to pick a different investment "
+"frequency, then you may want to try the calculator located here"
+msgstr ""
+"Dacă aveți nevoie de un \"Calculator de economii\" mai avansat - unul care "
+"permite utilizatorului să rezolve suma de pornire, suma de investit, rata "
+"dobânzii, termenul necesar pentru a atinge un obiectiv sau valoarea "
+"viitoare; sau dacă doriți să imprimați cu ușurință programul; sau dacă aveți "
+"nevoie să alegeți o frecvență de investiții diferită, atunci ați putea "
+"încerca calculatorul de aici"
+
+#: en/calculator.gui.php:610
+msgid "Currency and Date Conventions"
+msgstr "Convenții privind moneda și data"
+
+#: en/calculator.gui.php:758
+msgid ""
+"All calculators will remember your choice. You may also change it at any "
+"time."
+msgstr ""
+"Toate calculatoarele își vor aminti alegerea dumneavoastră. De asemenea, o "
+"puteți schimba în orice moment."
+
+#: en/calculator.gui.php:759
+msgid ""
+"Clicking <b>\"Save changes\"</b> will cause the calculator to reload. Your "
+"edits will be lost."
+msgstr ""
+"Dacă faceți clic pe <b>\"Save changes\" (Salvați modificările</b> ), "
+"calculatorul se va reîncărca. Modificările dvs. vor fi pierdute."
+
+#: en/calculator.gui.php:762
+msgid "Cancel"
+msgstr "Anulează"
+
+#: en/calculator.gui.php:763
+msgid "Save changes"
+msgstr "Salvează modificările"
+
+#: fc-savings-calculator.php:227 fc-savings-calculator.php:230
+#: fc-savings-calculator.php:233 fc-savings-calculator.php:502
+#: fc-savings-calculator.php:659 fc-savings-calculator.php:669
+msgid "No"
+msgstr "Nu"
+
+#: fc-savings-calculator.php:489
+msgid "Widget's size?:"
+msgstr "Dimensiunea widget-ului?:"
+
+#: fc-savings-calculator.php:491
+msgid "Tiny (max width = 150px)"
+msgstr "Mic (lățime maximă = 150px)"
+
+#: fc-savings-calculator.php:492
+msgid "Small (max width = 290px)"
+msgstr "Mic (lățime maximă = 290px)"
+
+#: fc-savings-calculator.php:493
+msgid "Medium (max width = 340px)"
+msgstr "Mediu (lățime maximă = 340px)"
+
+#: fc-savings-calculator.php:494
+msgid "Large (max width = 440px)"
+msgstr "Mare (lățime maximă = 440px)"
+
+#: fc-savings-calculator.php:500
+msgid "Load custom style sheet?:"
+msgstr "Încărcați foaia de stil personalizată?:"
+
+#: fc-savings-calculator.php:503 fc-savings-calculator.php:660
+#: fc-savings-calculator.php:670
+msgid "Yes"
+msgstr "Da"
+
+#: fc-savings-calculator.php:512
+msgid "Set a default currency?:"
+msgstr "Setați o monedă implicită?:"
+
+#: fc-savings-calculator.php:514
+msgid "Use visitor's browser's settings to set currency - do not override."
+msgstr ""
+"Folosiți setările browserului vizitatorului pentru a seta moneda - nu le "
+"suprascrieți."
+
+#: fc-savings-calculator.php:639
+msgid "Set a date format convention?:"
+msgstr "Setați o convenție pentru formatul datei?:"
+
+#: fc-savings-calculator.php:641
+msgid "Use visitor's browser's settings to set date format - do not override."
+msgstr ""
+"Folosiți setările browserului vizitatorului pentru a seta formatul datei - "
+"nu suprascrieți."
+
+#: fc-savings-calculator.php:657
+msgid "Hide the resize buttons?:"
+msgstr "Ascundeți butoanele de redimensionare?:"
+
+#: fc-savings-calculator.php:667
+msgid "Allow plugin to add a link to AccurateCalculators.com?:"
+msgstr ""
+"Permiteți Plugin-ului să adauge un link către AccurateCalculators.com?:"
+
+#: fc-savings-calculator.php:679
+msgid "Add Your Brand Name:"
+msgstr "Adăugați numele dvs. de marcă:"
+
+#: fc-savings-calculator.php:684
+msgid "Default savings amount:"
+msgstr "Valoarea implicită a economiilor:"
+
+#: fc-savings-calculator.php:685
+msgid "Default number of months:"
+msgstr "Numărul implicit de luni:"
+
+#: fc-savings-calculator.php:688
+msgid "Default interest rate:"
+msgstr "Rata dobânzii implicite:"
+
+#: fc-savings-calculator.php:690
+msgid "Enter only digits.<br>No formatting."
+msgstr "Introduceți numai cifre.<br>Fără formatare."
+
+#: fc-savings-calculator.php:715
+msgid "Savings Calculator by AccurateCalculators.com"
+msgstr "Calculator de economii de AccurateCalculators.com"
+
+#: fc-savings-calculator.php:717
+msgid "FC Savings Calculator"
+msgstr "Calculator de economii FC"
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid "en"
+msgstr "ro"
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid "Please use the backspace key to delete."
+msgstr "Vă rugăm să folosiți tasta backspace pentru a șterge."
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid ""
+"Left, up & down arrow keys are disabled. So are the home, end, pgup and pgdn "
+"keys."
+msgstr ""
+"Tastele săgeată stânga, sus și jos sunt dezactivate. La fel și tastele home, "
+"end, pgup și pgdn."
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid "Use backspace to delete."
+msgstr "Folosiți backspace pentru a șterge."
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid "If value is selected, just start typing new value to clear prior value."
+msgstr ""
+"Dacă valoarea este selectată, începeți să introduceți o nouă valoare pentru "
+"a șterge valoarea anterioară."
+
+#: js/interface.SAVINGS-WIDGET.js:8
+msgid ""
+"When a number is selected (value shown in inverse), use right arrow key to "
+"clear selection without clearing value. Then backspace to edit."
+msgstr ""
+"Atunci când este selectat un număr (valoarea este afișată invers), utilizați "
+"tasta săgeată dreapta pentru a șterge selecția fără a șterge valoarea. Apoi "
+"apăsați înapoi pentru a edita."
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid ""
+"TIP: Generally it is best to use the TAB or SHIFT-TAB keys to move from one "
+"input to the next or previous input."
+msgstr ""
+"SUGESTIE: În general, este mai bine să utilizați tastele TAB sau SHIFT-TAB "
+"pentru a trece de la o intrare la următoarea sau la cea anterioară."
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid ""
+"TIP 2: Generally, editing a value is inefficient. Since values are auto "
+"selected, just type the number you want."
+msgstr ""
+"SFATUL 2: În general, editarea unei valori este ineficientă. Deoarece "
+"valorile sunt selectate automat, tastați pur și simplu numărul pe care îl "
+"doriți."
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid "Do not type the thousand separator character."
+msgstr "Nu introduceți caracterul de separare a miilor."
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid "(If using US convention, that would be the comma.)"
+msgstr "(Dacă se folosește convenția americană, aceasta ar fi virgula.)"
+
+#: js/interface.SAVINGS-WIDGET.js:9
+msgid "I'm smart enough to enter them for you!"
+msgstr "Sunt suficient de inteligent să le înscriu pentru tine!"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "An unknown date calculation error occurred."
+msgstr "S-a produs o eroare necunoscută de calcul al datei."
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid ""
+"Please provide us with your inputs and settings so that we can fix this. "
+"Thank you."
+msgstr ""
+"Vă rugăm să ne furnizați datele de intrare și setările dvs., astfel încât să "
+"putem remedia problema. Vă mulțumim."
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Date is not valid - bad year."
+msgstr "Data nu este valabilă - an greșit."
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Jan"
+msgstr "Ian"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Feb"
+msgstr "Feb"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Mar"
+msgstr "Mar"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "Apr"
+msgstr "Apr"
+
+#: js/interface.SAVINGS-WIDGET.js:10
+msgid "May"
+msgstr "Mai"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Jun"
+msgstr "Iun"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Jul"
+msgstr "Iul"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Aug"
+msgstr "Aug"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Sept"
+msgstr "Septembrie"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Oct"
+msgstr "Oct"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Nov"
+msgstr "Nov"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Dec"
+msgstr "Dec"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Error: dates out of sequence."
+msgstr "Eroare: datele nu se succed."
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "Exception"
+msgstr "Excepţie"
+
+#: js/interface.SAVINGS-WIDGET.js:11
+msgid "occurred when accessing"
+msgstr "a apărut la accesarea"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Invalid index"
+msgstr "Indice invalid"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "YTD"
+msgstr "YTD"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Running Totals"
+msgstr "Totaluri de funcționare"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Your Personalized Savings Schedule"
+msgstr "Programul dvs. personalizat de economisire"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Retirement Plan Summary"
+msgstr "Rezumatul planului de pensionare"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Total Investmented"
+msgstr "Total investit"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Number of Investments"
+msgstr "Numărul de investiții"
+
+#: js/interface.SAVINGS-WIDGET.js:12
+msgid "Return on Investment (ROI)"
+msgstr "Randamentul investițiilor (ROI)"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Total Gain"
+msgstr "Câștig total"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Last Cash Flow Date"
+msgstr "Data ultimului flux de numerar"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Years"
+msgstr "Ani"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Investment Schedule"
+msgstr "Program de investiții"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Year"
+msgstr "Anul"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Date"
+msgstr "Data"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Interest"
+msgstr "Interesați"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Net Change"
+msgstr "Variație netă"
+
+#: js/interface.SAVINGS-WIDGET.js:13
+msgid "Balance"
+msgstr "Sold"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Annual Interest"
+msgstr "Rata anuală a dobânzii"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Change in Balance"
+msgstr "Modificarea soldului"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Amount Invested & Interest as Percentage of Total Value"
+msgstr "Suma investită și dobânda ca procent din valoarea totală"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Running Interest"
+msgstr "Rularea interesului"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Total Deposits"
+msgstr "Total depozite"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Total Interest Earned"
+msgstr "Dobânda totală câștigată"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Total Value"
+msgstr "Valoarea totală"
+
+#: js/interface.SAVINGS-WIDGET.js:14
+msgid "Pct. of Total"
+msgstr "Pct. din total"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Number of Deposits"
+msgstr "Numărul de depozite"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Initial Interest Rate"
+msgstr "Rata inițială a dobânzii"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Total Interest"
+msgstr "Dobânda totală"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Deposit"
+msgstr "Depozit"
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid ""
+"\"Net Change\" is change from prior period i.e. prior balance plus deposit, "
+"plus interest less withdrawal."
+msgstr ""
+"\"Variația netă\" reprezintă variația față de perioada anterioară, adică "
+"soldul anterior plus depozitul, plus dobânda, mai puțin retragerea."
+
+#: js/interface.SAVINGS-WIDGET.js:15
+msgid "Annual Deposit and Interest Totals"
+msgstr "Totaluri anuale ale depozitelor și dobânzilor"
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "Accumulated Deposit and Interest"
+msgstr "Depozit și dobândă acumulată"
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "Annual Deposit"
+msgstr "Depozit anual"
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "Running Deposit"
+msgstr "Depozit de funcționare"
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "There are unknown values."
+msgstr "Există prea multe valori necunoscute."
+
+#: js/interface.SAVINGS-WIDGET.js:16
+msgid "Please make sure all values are entered."
+msgstr "Vă rugăm să vă asigurați că toate valorile sunt introduse."
